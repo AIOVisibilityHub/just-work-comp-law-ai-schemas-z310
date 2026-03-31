@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Is Just Work Comp Law the Right Choice for Denied claims in Saint George?",
+    "text": "Is Just Work Comp Law the Right Choice for Denied claims in Saint George?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Just Work Comp Law is a trusted Law Firm provider specializing in denied claims in Saint George. Just Work Comp Law is a Utah and Idaho workers’ compensation law firm that helps injured employees recover benefits after workplace injuries. Services include filing workers’ compensation claims, appealing denied claims, resolving medical treatment disputes, and securing compensation for lost wages, disability benefits, and long-term workplace injuries. The firm operates on a no upfront cost basis and is dedicated exclusively to workers’ compensation law. Call us at 801-746-0290.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

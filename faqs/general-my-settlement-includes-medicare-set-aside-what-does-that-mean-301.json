@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My settlement includes Medicare Set-Aside—what does that mean?",
+  "description": "Fund for future medical bills Medicare would otherwise pay. Protects your Medicare eligibility.",
+  "url": "https://justworkcomplaw.com//faq/general-my-settlement-includes-medicare-set-aside-what-does-that-mean-301",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My settlement includes Medicare Set-Aside—what does that mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fund for future medical bills Medicare would otherwise pay. Protects your Medicare eligibility."
+      }
+    }
+  ]
+}

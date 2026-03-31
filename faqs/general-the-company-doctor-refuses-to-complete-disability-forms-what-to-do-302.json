@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The company doctor refuses to complete disability forms—what to do?",
+  "description": "Change doctors (your one-time right). Get attorney to compel or independent exam.",
+  "url": "https://justworkcomplaw.com//faq/general-the-company-doctor-refuses-to-complete-disability-forms-what-to-do-302",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The company doctor refuses to complete disability forms—what to do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Change doctors (your one-time right). Get attorney to compel or independent exam."
+      }
+    }
+  ]
+}
