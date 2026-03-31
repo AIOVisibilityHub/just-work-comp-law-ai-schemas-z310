@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Just Work Comp Law - Injured at work",
+  "description": "Professional Injured at work services in Draper. Just Work Comp Law is a Utah and Idaho workers’ compensation law firm that helps injured employees recover benefits after workplace injuries. Services include filing workers’ compensation claims, appealing denied claims, resolving medical treatment disputes, and securing compensation for lost wages, disability benefits, and long-term workplace injuries. The firm operates on a no upfront cost basis and is dedicated exclusively to workers’ compensation law.",
+  "url": "https://justworkcomplaw.com/",
+  "telephone": "801-746-0290",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Draper"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Draper"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Injured at work Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Injured at work"
+        }
+      }
+    ]
+  }
+}
