@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss offers \"comp time\" instead of workers comp—accept?",
+  "description": "NEVER. Comp time = no medical coverage, no tax-free cash, no permanent disability.",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-offers-comp-time-instead-of-workers-comp-accept-279",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss offers \"comp time\" instead of workers comp—accept?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NEVER. Comp time = no medical coverage, no tax-free cash, no permanent disability."
+      }
+    }
+  ]
+}

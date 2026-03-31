@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money do they usually pay out for a work-related slip and fall settlement?",
+  "description": "Settlement value depends on your medical expenses, lost wages, and permanent impairment rating. Workers comp typically covers all medical bills and pays about t",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-do-they-usually-pay-out-for-a-work-related-slip-and-fall-settleme-90",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money do they usually pay out for a work-related slip and fall settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Settlement value depends on your medical expenses, lost wages, and permanent impairment rating. Workers comp typically covers all medical bills and pays about two-thirds of your lost wages, plus a lump sum if you have lasting physical limitations after healing."
+      }
+    }
+  ]
+}

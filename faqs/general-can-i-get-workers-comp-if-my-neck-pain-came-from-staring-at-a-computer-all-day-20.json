@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp if my neck pain came from staring at a computer all day?",
+  "description": "Yes, repetitive motion or ergonomic injuries are covered. You must prove through medical testimony that your job duties—like constant computer use or repetitive",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-if-my-neck-pain-came-from-staring-at-a-computer-all-day-20",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp if my neck pain came from staring at a computer all day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, repetitive motion or ergonomic injuries are covered. You must prove through medical testimony that your job duties—like constant computer use or repetitive lifting—directly caused your neck condition."
+      }
+    }
+  ]
+}

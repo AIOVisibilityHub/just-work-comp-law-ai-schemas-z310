@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does workers comp pay for transportation to medical appointments?",
+  "description": "Yes, mileage reimbursement at IRS rate (around 65¢/mile). Keep receipts and appointment records.",
+  "url": "https://justworkcomplaw.com//faq/general-does-workers-comp-pay-for-transportation-to-medical-appointments-170",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does workers comp pay for transportation to medical appointments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, mileage reimbursement at IRS rate (around 65¢/mile). Keep receipts and appointment records."
+      }
+    }
+  ]
+}

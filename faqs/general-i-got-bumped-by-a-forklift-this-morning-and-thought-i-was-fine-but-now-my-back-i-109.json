@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got bumped by a forklift this morning and thought I was fine, but now my back is killing me. Did I wait too long to report it?",
+  "description": "It is not too late, but you must report it now. Adrenaline often masks pain medical records showing you sought treatment as soon as symptoms appeared will help ",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-bumped-by-a-forklift-this-morning-and-thought-i-was-fine-but-now-my-back-i-109",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got bumped by a forklift this morning and thought I was fine, but now my back is killing me. Did I wait too long to report it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is not too late, but you must report it now. Adrenaline often masks pain medical records showing you sought treatment as soon as symptoms appeared will help bridge the gap for insurance."
+      }
+    }
+  ]
+}

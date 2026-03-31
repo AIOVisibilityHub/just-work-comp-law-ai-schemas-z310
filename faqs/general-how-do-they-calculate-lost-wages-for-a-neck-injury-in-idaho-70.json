@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do they calculate lost wages for a neck injury in Idaho?",
+  "description": "Idaho lost wage benefits (income benefits) are generally 67% of your average weekly wage, subject to state minimums and maximums. You are eligible for these as ",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-they-calculate-lost-wages-for-a-neck-injury-in-idaho-70",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do they calculate lost wages for a neck injury in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Idaho lost wage benefits (income benefits) are generally 67% of your average weekly wage, subject to state minimums and maximums. You are eligible for these as long as you are unable to work or are restricted to lower-paying light duty."
+      }
+    }
+  ]
+}

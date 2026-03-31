@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp cover cosmetic surgery to fix work injury scar?",
+  "description": "Only if functionally necessary (blocks movement). Purely cosmetic = not covered.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-cover-cosmetic-surgery-to-fix-work-injury-scar-200",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp cover cosmetic surgery to fix work injury scar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only if functionally necessary (blocks movement). Purely cosmetic = not covered."
+      }
+    }
+  ]
+}

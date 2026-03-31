@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I recovered but re-injured same spot at home—can I reopen my claim?",
+  "description": "Maybe. Must prove work injury never fully healed AND home injury aggravated original work injury. Medical evidence needed.",
+  "url": "https://justworkcomplaw.com//faq/general-i-recovered-but-re-injured-same-spot-at-home-can-i-reopen-my-claim-172",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I recovered but re-injured same spot at home—can I reopen my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe. Must prove work injury never fully healed AND home injury aggravated original work injury. Medical evidence needed."
+      }
+    }
+  ]
+}

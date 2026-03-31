@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer countersues me for \"negligence\" in my injury—what now?",
+  "description": "Impossible. Workers comp = no-fault. Counterclaim = illegal retaliation. Lawyer dismisses.",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-countersues-me-for-negligence-in-my-injury-what-now-285",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer countersues me for \"negligence\" in my injury—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Impossible. Workers comp = no-fault. Counterclaim = illegal retaliation. Lawyer dismisses."
+      }
+    }
+  ]
+}

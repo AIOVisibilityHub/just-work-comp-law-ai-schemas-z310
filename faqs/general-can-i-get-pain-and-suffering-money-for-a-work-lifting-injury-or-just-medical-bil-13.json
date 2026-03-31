@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get pain and suffering money for a work lifting injury, or just medical bills?",
+  "description": "No, workers comp does not pay for pain and suffering. However, it pays for all related medical bills, a portion of lost wages, and impairment benefits if the li",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-pain-and-suffering-money-for-a-work-lifting-injury-or-just-medical-bil-13",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get pain and suffering money for a work lifting injury, or just medical bills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, workers comp does not pay for pain and suffering. However, it pays for all related medical bills, a portion of lost wages, and impairment benefits if the lifting injury leaves you with permanent physical limitations."
+      }
+    }
+  ]
+}

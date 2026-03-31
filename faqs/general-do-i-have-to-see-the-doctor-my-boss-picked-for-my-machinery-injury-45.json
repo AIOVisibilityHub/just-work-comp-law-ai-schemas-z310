@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to see the doctor my boss picked for my machinery injury?",
+  "description": "Usually, you must see the employer's doctor for the first visit, but you often have the right to switch to an independent physician afterward. Proper notificati",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-see-the-doctor-my-boss-picked-for-my-machinery-injury-45",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to see the doctor my boss picked for my machinery injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually, you must see the employer's doctor for the first visit, but you often have the right to switch to an independent physician afterward. Proper notification to the insurance company is required."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for carpal tunnel even if I didn't have a specific accident?",
+  "description": "Yes, carpal tunnel is a recognized occupational disease if it results from repetitive work duties. You do not need a single accident event, but you do need a me",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-carpal-tunnel-even-if-i-didn-t-have-a-specific-accide-19",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for carpal tunnel even if I didn't have a specific accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, carpal tunnel is a recognized occupational disease if it results from repetitive work duties. You do not need a single accident event, but you do need a medical diagnosis that links the condition specifically to your repetitive tasks at work."
+      }
+    }
+  ]
+}

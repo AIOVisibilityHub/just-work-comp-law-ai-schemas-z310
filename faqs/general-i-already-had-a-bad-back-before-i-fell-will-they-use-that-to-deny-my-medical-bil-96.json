@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I already had a bad back before I fell—will they use that to deny my medical bills?",
+  "description": "Insurance companies often try to deny claims based on pre-existing conditions, but if the work fall made your condition worse (aggravation), it is still legally",
+  "url": "https://justworkcomplaw.com//faq/general-i-already-had-a-bad-back-before-i-fell-will-they-use-that-to-deny-my-medical-bil-96",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I already had a bad back before I fell—will they use that to deny my medical bills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insurance companies often try to deny claims based on pre-existing conditions, but if the work fall made your condition worse (aggravation), it is still legally covered under workers compensation."
+      }
+    }
+  ]
+}

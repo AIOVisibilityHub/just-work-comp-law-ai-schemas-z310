@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm a delivery driver injured in crash—whose insurance pays?",
+  "description": "Your employer's workers comp (primary). Their commercial auto if company vehicle. Personal auto secondary.",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-a-delivery-driver-injured-in-crash-whose-insurance-pays-188",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm a delivery driver injured in crash—whose insurance pays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your employer's workers comp (primary). Their commercial auto if company vehicle. Personal auto secondary."
+      }
+    }
+  ]
+}

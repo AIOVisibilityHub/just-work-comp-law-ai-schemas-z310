@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money will I get if I can only work part-time now?",
+  "description": "You should receive Temporary Partial Disability (TPD) benefits, which typically cover two-thirds of the difference between your old full-time pay and your new p",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-will-i-get-if-i-can-only-work-part-time-now-94",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money will I get if I can only work part-time now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should receive Temporary Partial Disability (TPD) benefits, which typically cover two-thirds of the difference between your old full-time pay and your new part-time earnings, helping to stabilize your income."
+      }
+    }
+  ]
+}

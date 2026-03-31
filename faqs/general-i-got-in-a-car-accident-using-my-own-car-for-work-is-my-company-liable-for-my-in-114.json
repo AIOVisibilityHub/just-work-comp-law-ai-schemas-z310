@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got in a car accident using my own car for work, is my company liable for my injuries?",
+  "description": "Yes, if you were performing work duties at the time of the crash, you are typically eligible for workers compensation benefits even if you were driving your per",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-in-a-car-accident-using-my-own-car-for-work-is-my-company-liable-for-my-in-114",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got in a car accident using my own car for work, is my company liable for my injuries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you were performing work duties at the time of the crash, you are typically eligible for workers compensation benefits even if you were driving your personal vehicle. Exceptions like the coming and going rule apply to standard commutes, but work-related errands are generally covered."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell at work a few weeks ago but didn't report it because I thought I was fine—is it too late now?",
+  "description": "It is likely not too late, but you must act immediately. In Utah, you generally have 30 days to report, while Idaho allows 60 days however, delays give insuranc",
+  "url": "https://justworkcomplaw.com//faq/general-i-fell-at-work-a-few-weeks-ago-but-didn-t-report-it-because-i-thought-i-was-fine-104",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell at work a few weeks ago but didn't report it because I thought I was fine—is it too late now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is likely not too late, but you must act immediately. In Utah, you generally have 30 days to report, while Idaho allows 60 days however, delays give insurance companies a reason to deny claims, so filing a written report and seeking medical care right away is critical."
+      }
+    }
+  ]
+}

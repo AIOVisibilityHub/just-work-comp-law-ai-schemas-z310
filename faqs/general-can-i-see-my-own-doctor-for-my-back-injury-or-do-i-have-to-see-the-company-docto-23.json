@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I see my own doctor for my back injury or do I have to see the company doctor?",
+  "description": "Initially, your employer or their insurer usually chooses the doctor. However, in Utah and Idaho, you typically have a one-time right to change your treating ph",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-see-my-own-doctor-for-my-back-injury-or-do-i-have-to-see-the-company-docto-23",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I see my own doctor for my back injury or do I have to see the company doctor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initially, your employer or their insurer usually chooses the doctor. However, in Utah and Idaho, you typically have a one-time right to change your treating physician. You must follow specific procedures to do so."
+      }
+    }
+  ]
+}

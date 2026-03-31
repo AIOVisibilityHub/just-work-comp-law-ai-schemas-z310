@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if workers comp doctor lies about my exam findings?",
+  "description": "Request chart notes + independent medical exam. Doctor discipline possible through medical board.",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-workers-comp-doctor-lies-about-my-exam-findings-247",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if workers comp doctor lies about my exam findings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Request chart notes + independent medical exam. Doctor discipline possible through medical board."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The adjuster offers $15K to settle—how do I know true value?",
+  "description": "Calculate: Medical bills + 2/3 lost wages + (impairment % × state max × age factor). Lawyer runs numbers.",
+  "url": "https://justworkcomplaw.com//faq/general-the-adjuster-offers-15k-to-settle-how-do-i-know-true-value-206",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The adjuster offers $15K to settle—how do I know true value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Calculate: Medical bills + 2/3 lost wages + (impairment % × state max × age factor). Lawyer runs numbers."
+      }
+    }
+  ]
+}

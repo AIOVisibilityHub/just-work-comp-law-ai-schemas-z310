@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Exposed to mold at work in St. George, do I have rights if my employer says it's not their fault?",
+  "description": "Yes, because workers comp is a no-fault system. You do not need to prove the employer was negligent, only that your illness was caused by mold in the workplace.",
+  "url": "https://justworkcomplaw.com//faq/general-exposed-to-mold-at-work-in-st-george-do-i-have-rights-if-my-employer-says-it-s-n-54",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Exposed to mold at work in St. George, do I have rights if my employer says it's not their fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, because workers comp is a no-fault system. You do not need to prove the employer was negligent, only that your illness was caused by mold in the workplace. If denied, you can appeal by providing medical evidence and air quality test results."
+      }
+    }
+  ]
+}

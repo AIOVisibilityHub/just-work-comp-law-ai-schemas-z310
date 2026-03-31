@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire a lawyer for a work back injury?",
+  "description": "Nothing upfront. We work on a contingency fee basis, meaning we only get paid a percentage of the settlement we secure for you. If you don't win, you don't pay ",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-does-it-cost-to-hire-a-lawyer-for-a-work-back-injury-85",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire a lawyer for a work back injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nothing upfront. We work on a contingency fee basis, meaning we only get paid a percentage of the settlement we secure for you. If you don't win, you don't pay attorney fees."
+      }
+    }
+  ]
+}

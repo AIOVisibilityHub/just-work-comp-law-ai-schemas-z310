@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm on workers comp but want to start business—allowed?",
+  "description": "Yes. Can work other jobs if within doctor restrictions AND report earnings for TPD calculation.",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-on-workers-comp-but-want-to-start-business-allowed-219",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm on workers comp but want to start business—allowed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Can work other jobs if within doctor restrictions AND report earnings for TPD calculation."
+      }
+    }
+  ]
+}

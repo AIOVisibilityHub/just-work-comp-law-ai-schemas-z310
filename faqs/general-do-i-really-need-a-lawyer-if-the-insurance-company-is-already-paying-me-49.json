@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need a lawyer if the insurance company is already paying me?",
+  "description": "Yes. Even if they are paying, they often under-calculate benefits or prepare to stop payments as soon as possible. A lawyer protects you from premature return-t",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-really-need-a-lawyer-if-the-insurance-company-is-already-paying-me-49",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need a lawyer if the insurance company is already paying me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Even if they are paying, they often under-calculate benefits or prepare to stop payments as soon as possible. A lawyer protects you from premature return-to-work orders and ensures you get the maximum settlement for long-term disability."
+      }
+    }
+  ]
+}

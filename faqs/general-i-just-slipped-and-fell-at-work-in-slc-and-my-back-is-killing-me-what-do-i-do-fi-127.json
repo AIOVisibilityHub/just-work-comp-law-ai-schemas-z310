@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just slipped and fell at work in SLC and my back is killing me—what do I do first so I don't mess up my case?",
+  "description": "Report the fall to your supervisor immediately and seek medical care. Be sure to specify to the doctor that the injury occurred at work, as this creates the nec",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-slipped-and-fell-at-work-in-slc-and-my-back-is-killing-me-what-do-i-do-fi-127",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just slipped and fell at work in SLC and my back is killing me—what do I do first so I don't mess up my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the fall to your supervisor immediately and seek medical care. Be sure to specify to the doctor that the injury occurred at work, as this creates the necessary medical link for your workers compensation claim."
+      }
+    }
+  ]
+}

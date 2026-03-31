@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm injured but FMLA expired—can they terminate me?",
+  "description": "No. Workers comp retaliation protection continues beyond FMLA. Job protection varies by size.",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-injured-but-fmla-expired-can-they-terminate-me-271",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm injured but FMLA expired—can they terminate me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Workers comp retaliation protection continues beyond FMLA. Job protection varies by size."
+      }
+    }
+  ]
+}

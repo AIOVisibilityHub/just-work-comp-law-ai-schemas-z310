@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can workers comp benefits be taxed as income?",
+  "description": "No. All workers comp payments are 100% tax-free at federal and state level. Never report on tax return.",
+  "url": "https://justworkcomplaw.com//faq/general-can-workers-comp-benefits-be-taxed-as-income-241",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can workers comp benefits be taxed as income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. All workers comp payments are 100% tax-free at federal and state level. Never report on tax return."
+      }
+    }
+  ]
+}

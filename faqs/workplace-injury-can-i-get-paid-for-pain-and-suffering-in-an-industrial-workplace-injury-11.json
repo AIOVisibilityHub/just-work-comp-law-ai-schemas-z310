@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get paid for pain and suffering in an industrial workplace injury?",
+  "description": "Not through traditional workers comp. However, you can recover for pain and suffering by filing a third-party lawsuit against negligent contractors or equipment",
+  "url": "https://justworkcomplaw.com//faq/workplace-injury-can-i-get-paid-for-pain-and-suffering-in-an-industrial-workplace-injury-11",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get paid for pain and suffering in an industrial workplace injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not through traditional workers comp. However, you can recover for pain and suffering by filing a third-party lawsuit against negligent contractors or equipment manufacturers."
+      }
+    }
+  ]
+}

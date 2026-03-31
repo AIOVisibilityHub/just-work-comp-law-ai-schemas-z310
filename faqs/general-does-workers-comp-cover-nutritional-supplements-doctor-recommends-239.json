@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does workers comp cover nutritional supplements doctor recommends?",
+  "description": "Yes, if prescribed medication status AND directly treats work injury symptoms.",
+  "url": "https://justworkcomplaw.com//faq/general-does-workers-comp-cover-nutritional-supplements-doctor-recommends-239",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does workers comp cover nutritional supplements doctor recommends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if prescribed medication status AND directly treats work injury symptoms."
+      }
+    }
+  ]
+}

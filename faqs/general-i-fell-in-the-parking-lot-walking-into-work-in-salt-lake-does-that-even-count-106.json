@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell in the parking lot walking into work in Salt Lake—does that even count?",
+  "description": "Usually, yes. If the parking lot is owned or controlled by your employer, falls occurring there while arriving at or leaving work are typically covered under th",
+  "url": "https://justworkcomplaw.com//faq/general-i-fell-in-the-parking-lot-walking-into-work-in-salt-lake-does-that-even-count-106",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell in the parking lot walking into work in Salt Lake—does that even count?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually, yes. If the parking lot is owned or controlled by your employer, falls occurring there while arriving at or leaving work are typically covered under the premises rule."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does quitting for better job affect pending workers comp claim?",
+  "description": "No impact. Benefits based solely on medical condition/injury severity, not employment decisions.",
+  "url": "https://justworkcomplaw.com//faq/general-does-quitting-for-better-job-affect-pending-workers-comp-claim-210",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does quitting for better job affect pending workers comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No impact. Benefits based solely on medical condition/injury severity, not employment decisions."
+      }
+    }
+  ]
+}

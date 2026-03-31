@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I die from work injury complications?",
+  "description": "Death benefits to dependents. Funeral costs + 66% wages x years remaining to retirement.",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-i-die-from-work-injury-complications-295",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I die from work injury complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Death benefits to dependents. Funeral costs + 66% wages x years remaining to retirement."
+      }
+    }
+  ]
+}

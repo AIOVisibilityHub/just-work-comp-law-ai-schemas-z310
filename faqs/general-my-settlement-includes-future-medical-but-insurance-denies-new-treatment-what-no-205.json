@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My settlement includes future medical but insurance denies new treatment—what now?",
+  "description": "Appeal with doctor justification. \"Open medical\" = lifetime coverage for injury-related care.",
+  "url": "https://justworkcomplaw.com//faq/general-my-settlement-includes-future-medical-but-insurance-denies-new-treatment-what-no-205",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My settlement includes future medical but insurance denies new treatment—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal with doctor justification. \"Open medical\" = lifetime coverage for injury-related care."
+      }
+    }
+  ]
+}

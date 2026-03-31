@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp pay moving costs to accessible housing post-injury?",
+  "description": "Maybe. If doctor documents medical necessity AND cheaper than home modifications.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-pay-moving-costs-to-accessible-housing-post-injury-288",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp pay moving costs to accessible housing post-injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe. If doctor documents medical necessity AND cheaper than home modifications."
+      }
+    }
+  ]
+}

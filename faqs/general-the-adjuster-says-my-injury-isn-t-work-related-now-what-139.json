@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The adjuster says my injury isn't work-related—now what?",
+  "description": "Request all your medical records be explicitly linked to the work incident. Get a second opinion from an independent doctor if needed. Don't argue with the adju",
+  "url": "https://justworkcomplaw.com//faq/general-the-adjuster-says-my-injury-isn-t-work-related-now-what-139",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The adjuster says my injury isn't work-related—now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Request all your medical records be explicitly linked to the work incident. Get a second opinion from an independent doctor if needed. Don't argue with the adjuster—let a lawyer handle communications."
+      }
+    }
+  ]
+}

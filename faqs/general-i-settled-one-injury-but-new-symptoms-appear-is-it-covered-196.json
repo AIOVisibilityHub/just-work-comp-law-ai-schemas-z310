@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I settled one injury but new symptoms appear—is it covered?",
+  "description": "Yes, if related to original injury and within statute (usually 3-5 years post-settlement).",
+  "url": "https://justworkcomplaw.com//faq/general-i-settled-one-injury-but-new-symptoms-appear-is-it-covered-196",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I settled one injury but new symptoms appear—is it covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if related to original injury and within statute (usually 3-5 years post-settlement)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I fight insurance claim of \"pre-existing condition\" for back pain?",
+  "description": "Doctor opinion showing aggravation + no prior treatment + immediate post-injury symptoms.",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-fight-insurance-claim-of-pre-existing-condition-for-back-pain-291",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I fight insurance claim of \"pre-existing condition\" for back pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctor opinion showing aggravation + no prior treatment + immediate post-injury symptoms."
+      }
+    }
+  ]
+}

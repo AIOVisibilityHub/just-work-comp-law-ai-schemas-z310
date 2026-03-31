@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money will I actually get every week while I'm off work?",
+  "description": "You will typically receive two-thirds (66.67%) of your average weekly wage, including overtime and bonuses, subject to state maximum caps. In Utah, you may also",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-will-i-actually-get-every-week-while-i-m-off-work-91",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money will I actually get every week while I'm off work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You will typically receive two-thirds (66.67%) of your average weekly wage, including overtime and bonuses, subject to state maximum caps. In Utah, you may also receive a small additional allowance for a spouse and dependent children."
+      }
+    }
+  ]
+}

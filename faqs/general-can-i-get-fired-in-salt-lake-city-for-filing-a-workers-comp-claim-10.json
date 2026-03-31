@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get fired in Salt Lake City for filing a workers comp claim?",
+  "description": "No, Utah law prohibits employers from firing you simply for filing a workers comp claim. However, they can still terminate you for unrelated legal reasons, so d",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-fired-in-salt-lake-city-for-filing-a-workers-comp-claim-10",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get fired in Salt Lake City for filing a workers comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, Utah law prohibits employers from firing you simply for filing a workers comp claim. However, they can still terminate you for unrelated legal reasons, so documenting your communications is vital."
+      }
+    }
+  ]
+}

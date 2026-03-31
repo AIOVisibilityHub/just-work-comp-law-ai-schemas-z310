@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my company for hearing loss or is workers comp my only option?",
+  "description": "Generally, workers comp is your only remedy against your employer. However, you may be able to sue a third party, such as a manufacturer of defective hearing pr",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-company-for-hearing-loss-or-is-workers-comp-my-only-option-31",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my company for hearing loss or is workers comp my only option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, workers comp is your only remedy against your employer. However, you may be able to sue a third party, such as a manufacturer of defective hearing protection, for additional damages."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Hit by a delivery driver, do I sue the driver or the company like Instacart?",
+  "description": "You can generally pursue the company if the driver was an employee acting within their job scope. For gig workers (Instacart), you often target the company's co",
+  "url": "https://justworkcomplaw.com//faq/general-hit-by-a-delivery-driver-do-i-sue-the-driver-or-the-company-like-instacart-57",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Hit by a delivery driver, do I sue the driver or the company like Instacart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can generally pursue the company if the driver was an employee acting within their job scope. For gig workers (Instacart), you often target the company's commercial liability policy, which typically carries much higher limits than a personal policy."
+      }
+    }
+  ]
+}

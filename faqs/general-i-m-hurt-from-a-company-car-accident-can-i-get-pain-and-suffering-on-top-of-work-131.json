@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm hurt from a company car accident—can I get pain and suffering on top of workers comp?",
+  "description": "Workers comp does not pay for pain and suffering, but if a third party (another driver) caused the accident, you can file a separate personal injury lawsuit aga",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-hurt-from-a-company-car-accident-can-i-get-pain-and-suffering-on-top-of-work-131",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm hurt from a company car accident—can I get pain and suffering on top of workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers comp does not pay for pain and suffering, but if a third party (another driver) caused the accident, you can file a separate personal injury lawsuit against them to recover those specific damages."
+      }
+    }
+  ]
+}

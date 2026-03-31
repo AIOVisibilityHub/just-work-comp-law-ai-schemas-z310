@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss if I got hurt on the job in Ogden, or is workers comp my only option?",
+  "description": "Generally, you cannot sue your employer due to workers compensation exclusive remedy laws. However, you can often sue third parties like subcontractors or equip",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-if-i-got-hurt-on-the-job-in-ogden-or-is-workers-comp-my-only-o-30",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss if I got hurt on the job in Ogden, or is workers comp my only option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, you cannot sue your employer due to workers compensation exclusive remedy laws. However, you can often sue third parties like subcontractors or equipment manufacturers for additional damages like pain and suffering."
+      }
+    }
+  ]
+}

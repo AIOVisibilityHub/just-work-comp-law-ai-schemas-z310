@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer for toxic exposure or is it just workers comp?",
+  "description": "Usually, you are limited to workers comp, but if the exposure was intentional or caused by a third-party manufacturer's defective product, you may be able to fi",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-for-toxic-exposure-or-is-it-just-workers-comp-37",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer for toxic exposure or is it just workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually, you are limited to workers comp, but if the exposure was intentional or caused by a third-party manufacturer's defective product, you may be able to file a separate lawsuit for pain and suffering."
+      }
+    }
+  ]
+}

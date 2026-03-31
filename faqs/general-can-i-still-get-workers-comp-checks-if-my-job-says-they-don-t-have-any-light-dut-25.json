@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still get workers comp checks if my job says they don't have any light duty work available?",
+  "description": "Yes. If your employer cannot accommodate your doctor-ordered light duty restrictions, you are typically eligible for Temporary Total Disability (TTD) benefits, ",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-still-get-workers-comp-checks-if-my-job-says-they-don-t-have-any-light-dut-25",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still get workers comp checks if my job says they don't have any light duty work available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If your employer cannot accommodate your doctor-ordered light duty restrictions, you are typically eligible for Temporary Total Disability (TTD) benefits, which compensate you for lost wages while you recover."
+      }
+    }
+  ]
+}

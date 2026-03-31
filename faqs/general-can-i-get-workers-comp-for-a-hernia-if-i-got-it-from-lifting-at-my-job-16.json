@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for a hernia if I got it from lifting at my job?",
+  "description": "Yes, hernias caused by workplace lifting are covered. However, you must report the specific incident and seek medical care quickly, as insurance companies often",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-a-hernia-if-i-got-it-from-lifting-at-my-job-16",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for a hernia if I got it from lifting at my job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, hernias caused by workplace lifting are covered. However, you must report the specific incident and seek medical care quickly, as insurance companies often claim hernias are pre-existing or non-work-related if there is a delay in reporting."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss pressured me to not file my claim—is that legal?",
+  "description": "No. It's illegal retaliation. Document all conversations and file your claim anyway. You may have grounds for a separate retaliation lawsuit if they take advers",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-pressured-me-to-not-file-my-claim-is-that-legal-135",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss pressured me to not file my claim—is that legal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. It's illegal retaliation. Document all conversations and file your claim anyway. You may have grounds for a separate retaliation lawsuit if they take adverse action against you."
+      }
+    }
+  ]
+}

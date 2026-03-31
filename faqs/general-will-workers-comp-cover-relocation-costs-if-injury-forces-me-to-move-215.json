@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp cover relocation costs if injury forces me to move?",
+  "description": "No. Only medical treatment/transport directly related to injury care.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-cover-relocation-costs-if-injury-forces-me-to-move-215",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp cover relocation costs if injury forces me to move?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Only medical treatment/transport directly related to injury care."
+      }
+    }
+  ]
+}

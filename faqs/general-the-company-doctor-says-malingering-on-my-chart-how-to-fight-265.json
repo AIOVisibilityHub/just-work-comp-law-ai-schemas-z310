@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The company doctor says \"malingering\" on my chart—how to fight?",
+  "description": "Independent medical exam + attorney. Defamatory notes = grounds for doctor removal.",
+  "url": "https://justworkcomplaw.com//faq/general-the-company-doctor-says-malingering-on-my-chart-how-to-fight-265",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The company doctor says \"malingering\" on my chart—how to fight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Independent medical exam + attorney. Defamatory notes = grounds for doctor removal."
+      }
+    }
+  ]
+}

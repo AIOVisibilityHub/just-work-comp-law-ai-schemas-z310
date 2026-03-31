@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get temporary disability if the accident just made an old injury worse?",
+  "description": "Yes. In Utah and Idaho, you are entitled to benefits if a work accident aggravates or worsens a pre-existing condition. The insurance company must pay if the wo",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-temporary-disability-if-the-accident-just-made-an-old-injury-worse-14",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get temporary disability if the accident just made an old injury worse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. In Utah and Idaho, you are entitled to benefits if a work accident aggravates or worsens a pre-existing condition. The insurance company must pay if the work event was a contributing factor to your inability to work."
+      }
+    }
+  ]
+}

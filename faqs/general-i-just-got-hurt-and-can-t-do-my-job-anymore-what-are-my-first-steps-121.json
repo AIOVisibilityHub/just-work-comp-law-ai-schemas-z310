@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just got hurt and can't do my job anymore—what are my first steps?",
+  "description": "Immediately report the injury to your supervisor and seek medical attention. Obtain a written list of work restrictions from your doctor and provide them to you",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-got-hurt-and-can-t-do-my-job-anymore-what-are-my-first-steps-121",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just got hurt and can't do my job anymore—what are my first steps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately report the injury to your supervisor and seek medical attention. Obtain a written list of work restrictions from your doctor and provide them to your employer to determine if they can accommodate your limitations or if you qualify for disability benefits."
+      }
+    }
+  ]
+}

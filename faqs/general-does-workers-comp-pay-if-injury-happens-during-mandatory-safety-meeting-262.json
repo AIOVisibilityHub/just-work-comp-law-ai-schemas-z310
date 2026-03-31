@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does workers comp pay if injury happens during mandatory safety meeting?",
+  "description": "Yes, 100% covered. All employer-mandated activities during work hours = compensable.",
+  "url": "https://justworkcomplaw.com//faq/general-does-workers-comp-pay-if-injury-happens-during-mandatory-safety-meeting-262",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does workers comp pay if injury happens during mandatory safety meeting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 100% covered. All employer-mandated activities during work hours = compensable."
+      }
+    }
+  ]
+}

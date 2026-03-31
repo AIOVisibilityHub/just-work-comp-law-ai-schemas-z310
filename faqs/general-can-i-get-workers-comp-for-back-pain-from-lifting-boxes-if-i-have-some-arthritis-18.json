@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for back pain from lifting boxes if I have some arthritis already?",
+  "description": "Yes. Workers comp covers the aggravation of pre-existing conditions like arthritis. If your repetitive lifting made your underlying arthritis symptomatic or wor",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-back-pain-from-lifting-boxes-if-i-have-some-arthritis-18",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for back pain from lifting boxes if I have some arthritis already?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Workers comp covers the aggravation of pre-existing conditions like arthritis. If your repetitive lifting made your underlying arthritis symptomatic or worse, the employer is still responsible for your medical care and benefits."
+      }
+    }
+  ]
+}

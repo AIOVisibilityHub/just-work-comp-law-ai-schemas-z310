@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long after injury can I add new body parts to my claim?",
+  "description": "Within 1 year discovery (Utah) or while receiving benefits. Must prove work-related connection.",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-after-injury-can-i-add-new-body-parts-to-my-claim-233",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long after injury can I add new body parts to my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Within 1 year discovery (Utah) or while receiving benefits. Must prove work-related connection."
+      }
+    }
+  ]
+}

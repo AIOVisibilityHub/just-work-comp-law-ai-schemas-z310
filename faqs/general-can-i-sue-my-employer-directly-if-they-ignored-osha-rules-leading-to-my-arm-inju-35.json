@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer directly if they ignored OSHA rules leading to my arm injury?",
+  "description": "Usually no, due to exclusive remedy laws. However, OSHA violations can be used to increase your benefits or prove a case against a third-party manufacturer.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-directly-if-they-ignored-osha-rules-leading-to-my-arm-inju-35",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer directly if they ignored OSHA rules leading to my arm injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually no, due to exclusive remedy laws. However, OSHA violations can be used to increase your benefits or prove a case against a third-party manufacturer."
+      }
+    }
+  ]
+}

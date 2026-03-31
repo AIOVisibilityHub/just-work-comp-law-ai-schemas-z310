@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is workers comp different if I work across state lines like Utah/Idaho?",
+  "description": "Yes, each state has different rules for reporting deadlines, benefit calculations, and doctor selection. A lawyer familiar with multi-state claims ensures you g",
+  "url": "https://justworkcomplaw.com//faq/general-is-workers-comp-different-if-i-work-across-state-lines-like-utah-idaho-134",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is workers comp different if I work across state lines like Utah/Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, each state has different rules for reporting deadlines, benefit calculations, and doctor selection. A lawyer familiar with multi-state claims ensures you get the best coverage regardless of where the injury occurred."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get benefits if my work injury just made an old problem worse?",
+  "description": "Yes. If a work accident aggravates a pre-existing condition so you can no longer work, it is a compensable claim. Insurance companies often deny these, but Utah",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-benefits-if-my-work-injury-just-made-an-old-problem-worse-7",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get benefits if my work injury just made an old problem worse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If a work accident aggravates a pre-existing condition so you can no longer work, it is a compensable claim. Insurance companies often deny these, but Utah law protects workers if the accident was the contributing cause of the disability."
+      }
+    }
+  ]
+}

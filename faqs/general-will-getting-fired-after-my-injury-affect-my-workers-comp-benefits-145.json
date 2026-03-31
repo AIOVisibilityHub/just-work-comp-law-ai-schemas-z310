@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will getting fired after my injury affect my workers comp benefits?",
+  "description": "No. Benefits continue regardless of employment status. However, document any retaliation for a potential wrongful termination lawsuit.",
+  "url": "https://justworkcomplaw.com//faq/general-will-getting-fired-after-my-injury-affect-my-workers-comp-benefits-145",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will getting fired after my injury affect my workers comp benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Benefits continue regardless of employment status. However, document any retaliation for a potential wrongful termination lawsuit."
+      }
+    }
+  ]
+}

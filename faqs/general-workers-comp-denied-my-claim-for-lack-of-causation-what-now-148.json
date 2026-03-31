@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Workers comp denied my claim for \"lack of causation\"—what now?",
+  "description": "Get a medical opinion specifically linking your condition to work. Appeal with expert testimony. Most denials are overturned with proper evidence.",
+  "url": "https://justworkcomplaw.com//faq/general-workers-comp-denied-my-claim-for-lack-of-causation-what-now-148",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Workers comp denied my claim for \"lack of causation\"—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get a medical opinion specifically linking your condition to work. Appeal with expert testimony. Most denials are overturned with proper evidence."
+      }
+    }
+  ]
+}

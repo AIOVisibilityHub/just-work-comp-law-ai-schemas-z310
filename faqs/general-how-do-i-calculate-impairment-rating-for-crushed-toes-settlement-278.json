@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I calculate impairment rating for crushed toes settlement?",
+  "description": "AMA Guides rating × state multiplier × body part weight × your age/wage factors.",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-calculate-impairment-rating-for-crushed-toes-settlement-278",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I calculate impairment rating for crushed toes settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AMA Guides rating × state multiplier × body part weight × your age/wage factors."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My company offered a quick settlement—should I take it?",
+  "description": "No. Quick settlements often undervalue future medical needs and permanent disability. Wait until you reach Maximum Medical Improvement (MMI) and get an impairme",
+  "url": "https://justworkcomplaw.com//faq/general-my-company-offered-a-quick-settlement-should-i-take-it-136",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My company offered a quick settlement—should I take it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Quick settlements often undervalue future medical needs and permanent disability. Wait until you reach Maximum Medical Improvement (MMI) and get an impairment rating before settling."
+      }
+    }
+  ]
+}

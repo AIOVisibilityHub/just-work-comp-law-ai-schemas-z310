@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My light duty job pays less—when do I get wage difference?",
+  "description": "TPD benefits kick in automatically. 2/3 of difference between old wage vs new light duty.",
+  "url": "https://justworkcomplaw.com//faq/general-my-light-duty-job-pays-less-when-do-i-get-wage-difference-252",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My light duty job pays less—when do I get wage difference?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TPD benefits kick in automatically. 2/3 of difference between old wage vs new light duty."
+      }
+    }
+  ]
+}

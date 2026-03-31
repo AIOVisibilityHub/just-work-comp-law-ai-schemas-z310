@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my knee in a Boise warehouse twice last month and thought it would get better. Is it too late to file?",
+  "description": "It's likely not too late, but you must act now. In Idaho, you have 60 days for notice. If you're still within that window, report it in writing immediately to p",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-knee-in-a-boise-warehouse-twice-last-month-and-thought-it-would-get-be-117",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my knee in a Boise warehouse twice last month and thought it would get better. Is it too late to file?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's likely not too late, but you must act now. In Idaho, you have 60 days for notice. If you're still within that window, report it in writing immediately to preserve your rights."
+      }
+    }
+  ]
+}

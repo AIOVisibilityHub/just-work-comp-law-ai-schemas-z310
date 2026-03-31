@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I file workers comp against temp agency AND warehouse client?",
+  "description": "No double-dip. Agency coverage primary. Client = potential third-party negligence claim.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-file-workers-comp-against-temp-agency-and-warehouse-client-268",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I file workers comp against temp agency AND warehouse client?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No double-dip. Agency coverage primary. Client = potential third-party negligence claim."
+      }
+    }
+  ]
+}

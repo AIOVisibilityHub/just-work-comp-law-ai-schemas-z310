@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does my night shift injury get higher wage calculation for shift differential?",
+  "description": "Yes! AWW includes ALL premiums, differentials, night pay from prior 52 weeks.",
+  "url": "https://justworkcomplaw.com//faq/general-does-my-night-shift-injury-get-higher-wage-calculation-for-shift-differential-269",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does my night shift injury get higher wage calculation for shift differential?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! AWW includes ALL premiums, differentials, night pay from prior 52 weeks."
+      }
+    }
+  ]
+}

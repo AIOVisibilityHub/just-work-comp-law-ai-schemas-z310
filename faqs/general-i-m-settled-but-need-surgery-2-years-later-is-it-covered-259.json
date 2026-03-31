@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm settled but need surgery 2 years later—is it covered?",
+  "description": "Yes with \"open medical.\" Must prove same injury/condition as original accepted claim.",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-settled-but-need-surgery-2-years-later-is-it-covered-259",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm settled but need surgery 2 years later—is it covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes with \"open medical.\" Must prove same injury/condition as original accepted claim."
+      }
+    }
+  ]
+}

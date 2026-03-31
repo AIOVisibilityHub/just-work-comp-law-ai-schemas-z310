@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The adjuster says \"no permanent injury = no settlement\"—true?",
+  "description": "False. Even temporary injuries get lost wage + medical reimbursement. Permanent = extra settlement.",
+  "url": "https://justworkcomplaw.com//faq/general-the-adjuster-says-no-permanent-injury-no-settlement-true-235",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The adjuster says \"no permanent injury = no settlement\"—true?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "False. Even temporary injuries get lost wage + medical reimbursement. Permanent = extra settlement."
+      }
+    }
+  ]
+}

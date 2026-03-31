@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My settlement has \"structured payments\"—what does that mean?",
+  "description": "Insurance pays over time vs lump sum. Tax-free but less flexible. Lawyer negotiates cash.",
+  "url": "https://justworkcomplaw.com//faq/general-my-settlement-has-structured-payments-what-does-that-mean-272",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My settlement has \"structured payments\"—what does that mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insurance pays over time vs lump sum. Tax-free but less flexible. Lawyer negotiates cash."
+      }
+    }
+  ]
+}

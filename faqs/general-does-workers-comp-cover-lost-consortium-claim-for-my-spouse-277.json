@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does workers comp cover lost consortium claim for my spouse?",
+  "description": "No. Only YOUR economic/medical losses. Spouse claims = third-party personal injury.",
+  "url": "https://justworkcomplaw.com//faq/general-does-workers-comp-cover-lost-consortium-claim-for-my-spouse-277",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does workers comp cover lost consortium claim for my spouse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Only YOUR economic/medical losses. Spouse claims = third-party personal injury."
+      }
+    }
+  ]
+}

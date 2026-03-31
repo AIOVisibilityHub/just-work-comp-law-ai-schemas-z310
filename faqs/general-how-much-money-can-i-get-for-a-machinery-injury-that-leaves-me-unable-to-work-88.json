@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money can I get for a machinery injury that leaves me unable to work?",
+  "description": "You can receive 100% medical coverage and roughly 66% of your lost wages. If the injury is permanent, you may receive a disability settlement based on an impair",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-can-i-get-for-a-machinery-injury-that-leaves-me-unable-to-work-88",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money can I get for a machinery injury that leaves me unable to work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can receive 100% medical coverage and roughly 66% of your lost wages. If the injury is permanent, you may receive a disability settlement based on an impairment rating and your future earning capacity."
+      }
+    }
+  ]
+}

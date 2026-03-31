@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money can I get for lost wages if my RSI keeps me out of work in Idaho?",
+  "description": "You generally receive 66.6% of your average weekly wage in Idaho while you are unable to work. These benefits continue until you reach maximum medical improveme",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-can-i-get-for-lost-wages-if-my-rsi-keeps-me-out-of-work-in-idaho-89",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money can I get for lost wages if my RSI keeps me out of work in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You generally receive 66.6% of your average weekly wage in Idaho while you are unable to work. These benefits continue until you reach maximum medical improvement or your employer provides a job within your physical restrictions."
+      }
+    }
+  ]
+}

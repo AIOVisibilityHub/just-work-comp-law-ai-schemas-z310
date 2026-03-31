@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm pregnant and was exposed to chemicals at work in Ogden. What are my rights?",
+  "description": "You are entitled to reasonable accommodations to move away from toxins. If your baby is harmed by the exposure, you may be able to sue your employer directly fo",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-pregnant-and-was-exposed-to-chemicals-at-work-in-ogden-what-are-my-rights-132",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm pregnant and was exposed to chemicals at work in Ogden. What are my rights?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You are entitled to reasonable accommodations to move away from toxins. If your baby is harmed by the exposure, you may be able to sue your employer directly for damages, as the exclusive remedy of workers comp often doesn't apply to the child."
+      }
+    }
+  ]
+}

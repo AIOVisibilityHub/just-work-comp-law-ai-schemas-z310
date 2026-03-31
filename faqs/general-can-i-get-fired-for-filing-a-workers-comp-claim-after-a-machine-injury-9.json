@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get fired for filing a workers comp claim after a machine injury?",
+  "description": "No, it is illegal for an employer to retaliate against you for filing a claim. If you are fired, you may have grounds for a wrongful termination lawsuit alongsi",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-fired-for-filing-a-workers-comp-claim-after-a-machine-injury-9",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get fired for filing a workers comp claim after a machine injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, it is illegal for an employer to retaliate against you for filing a claim. If you are fired, you may have grounds for a wrongful termination lawsuit alongside your injury claim."
+      }
+    }
+  ]
+}

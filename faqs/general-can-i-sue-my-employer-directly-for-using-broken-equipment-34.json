@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer directly for using broken equipment?",
+  "description": "Generally no workers comp is your exclusive remedy against your employer. However, you can sue third parties like manufacturers or external repair companies for",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-directly-for-using-broken-equipment-34",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer directly for using broken equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally no workers comp is your exclusive remedy against your employer. However, you can sue third parties like manufacturers or external repair companies for their role in the malfunction."
+      }
+    }
+  ]
+}

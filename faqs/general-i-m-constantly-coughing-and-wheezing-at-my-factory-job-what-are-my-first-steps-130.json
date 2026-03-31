@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm constantly coughing and wheezing at my factory job—what are my first steps?",
+  "description": "Seek medical care immediately and notify your employer in writing about your symptoms and their connection to work. Document the specific fumes or dust you are ",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-constantly-coughing-and-wheezing-at-my-factory-job-what-are-my-first-steps-130",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm constantly coughing and wheezing at my factory job—what are my first steps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek medical care immediately and notify your employer in writing about your symptoms and their connection to work. Document the specific fumes or dust you are exposed to and request Safety Data Sheets (SDS) from your manager to provide to your doctor."
+      }
+    }
+  ]
+}

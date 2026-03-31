@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp cover a second opinion on surgery recommendation?",
+  "description": "Yes. You have right to one independent exam. Insurance must pay if related to accepted claim.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-cover-a-second-opinion-on-surgery-recommendation-176",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp cover a second opinion on surgery recommendation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You have right to one independent exam. Insurance must pay if related to accepted claim."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My forklift tip-over was recorded on security camera—will that hurt my case?",
+  "description": "Actually, it helps. Video evidence proves the accident happened at work and shows the circumstances, making it harder for insurance to deny your claim.",
+  "url": "https://justworkcomplaw.com//faq/general-my-forklift-tip-over-was-recorded-on-security-camera-will-that-hurt-my-case-138",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My forklift tip-over was recorded on security camera—will that hurt my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Actually, it helps. Video evidence proves the accident happened at work and shows the circumstances, making it harder for insurance to deny your claim."
+      }
+    }
+  ]
+}

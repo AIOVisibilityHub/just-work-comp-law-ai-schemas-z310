@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Hawaii resort pesticides made my family sick too—can I include that in my work claim?",
+  "description": "No, you cannot include family members in a workers comp claim. However, you can file a separate personal injury lawsuit against the employer or manufacturer for",
+  "url": "https://justworkcomplaw.com//faq/general-hawaii-resort-pesticides-made-my-family-sick-too-can-i-include-that-in-my-work-c-56",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Hawaii resort pesticides made my family sick too—can I include that in my work claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you cannot include family members in a workers comp claim. However, you can file a separate personal injury lawsuit against the employer or manufacturer for take-home exposure that harmed your family, which allows for different types of damages."
+      }
+    }
+  ]
+}

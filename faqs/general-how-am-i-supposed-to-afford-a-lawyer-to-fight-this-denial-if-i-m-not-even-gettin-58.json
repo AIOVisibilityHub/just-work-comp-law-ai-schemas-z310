@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How am I supposed to afford a lawyer to fight this denial if I'm not even getting paid?",
+  "description": "Most workers comp attorneys work on contingency, meaning there are no upfront costs. They only get paid a percentage of the benefits they recover for you. You d",
+  "url": "https://justworkcomplaw.com//faq/general-how-am-i-supposed-to-afford-a-lawyer-to-fight-this-denial-if-i-m-not-even-gettin-58",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How am I supposed to afford a lawyer to fight this denial if I'm not even getting paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most workers comp attorneys work on contingency, meaning there are no upfront costs. They only get paid a percentage of the benefits they recover for you. You don't need money out-of-pocket to hire elite representation."
+      }
+    }
+  ]
+}

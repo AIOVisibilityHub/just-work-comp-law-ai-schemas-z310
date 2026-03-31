@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does my 1099 gig work qualify despite no payroll taxes?",
+  "description": "Yes, if employer controls schedule/methods. \"Economic reality\" test determines employee status.",
+  "url": "https://justworkcomplaw.com//faq/general-does-my-1099-gig-work-qualify-despite-no-payroll-taxes-290",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does my 1099 gig work qualify despite no payroll taxes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if employer controls schedule/methods. \"Economic reality\" test determines employee status."
+      }
+    }
+  ]
+}

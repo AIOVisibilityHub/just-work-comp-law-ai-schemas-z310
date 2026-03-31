@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim benefits if the safety gear I was wearing failed?",
+  "description": "Yes. If your safety gear like a harness or guard failed, you are entitled to workers comp. You may also have a strong case against the manufacturer of that safe",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-claim-benefits-if-the-safety-gear-i-was-wearing-failed-6",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim benefits if the safety gear I was wearing failed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If your safety gear like a harness or guard failed, you are entitled to workers comp. You may also have a strong case against the manufacturer of that safety equipment."
+      }
+    }
+  ]
+}

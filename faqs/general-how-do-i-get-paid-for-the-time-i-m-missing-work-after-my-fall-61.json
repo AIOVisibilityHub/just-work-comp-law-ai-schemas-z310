@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get paid for the time I'm missing work after my fall?",
+  "description": "You are entitled to Temporary Total Disability benefits, which pay roughly 66% of your pre-tax wages while you are unable to work. You must provide consistent m",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-get-paid-for-the-time-i-m-missing-work-after-my-fall-61",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get paid for the time I'm missing work after my fall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You are entitled to Temporary Total Disability benefits, which pay roughly 66% of your pre-tax wages while you are unable to work. You must provide consistent medical excuses to keep these checks coming."
+      }
+    }
+  ]
+}

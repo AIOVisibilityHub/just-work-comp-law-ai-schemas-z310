@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I handle coworker pressuring me not to file injury report?",
+  "description": "Document + report to HR/supervisor. Witness tampering = retaliation exposure for company.",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-handle-coworker-pressuring-me-not-to-file-injury-report-251",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I handle coworker pressuring me not to file injury report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Document + report to HR/supervisor. Witness tampering = retaliation exposure for company."
+      }
+    }
+  ]
+}

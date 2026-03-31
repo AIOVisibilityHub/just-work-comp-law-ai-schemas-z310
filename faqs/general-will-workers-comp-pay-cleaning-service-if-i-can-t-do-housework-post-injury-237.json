@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp pay cleaning service if I can't do housework post-injury?",
+  "description": "Maybe. If doctor documents total disability level AND housework essential for recovery.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-pay-cleaning-service-if-i-can-t-do-housework-post-injury-237",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp pay cleaning service if I can't do housework post-injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe. If doctor documents total disability level AND housework essential for recovery."
+      }
+    }
+  ]
+}

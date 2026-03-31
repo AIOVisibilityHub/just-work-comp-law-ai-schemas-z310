@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I be forced to take a polygraph test for my workers comp claim?",
+  "description": "No. Polygraphs aren't admissible in workers comp hearings. Never agree to one—it's a scare tactic.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-be-forced-to-take-a-polygraph-test-for-my-workers-comp-claim-169",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I be forced to take a polygraph test for my workers comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Polygraphs aren't admissible in workers comp hearings. Never agree to one—it's a scare tactic."
+      }
+    }
+  ]
+}

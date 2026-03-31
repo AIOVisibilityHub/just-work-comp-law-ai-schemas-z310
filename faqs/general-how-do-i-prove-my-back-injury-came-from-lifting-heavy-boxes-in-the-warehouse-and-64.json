@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my back injury came from lifting heavy boxes in the warehouse and not just from getting older?",
+  "description": "Proof comes from medical records and specific incident reports. You need a doctor to link your back pain to your warehouse duties, whether it was one heavy lift",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-back-injury-came-from-lifting-heavy-boxes-in-the-warehouse-and-64",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my back injury came from lifting heavy boxes in the warehouse and not just from getting older?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proof comes from medical records and specific incident reports. You need a doctor to link your back pain to your warehouse duties, whether it was one heavy lift or years of repetitive strain. Prompt reporting is essential."
+      }
+    }
+  ]
+}

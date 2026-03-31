@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my tinnitus from factory noise is work-related?",
+  "description": "Audiogram + noise level measurements + no prior hearing loss + coworker comparison.",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-tinnitus-from-factory-noise-is-work-related-270",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my tinnitus from factory noise is work-related?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audiogram + noise level measurements + no prior hearing loss + coworker comparison."
+      }
+    }
+  ]
+}

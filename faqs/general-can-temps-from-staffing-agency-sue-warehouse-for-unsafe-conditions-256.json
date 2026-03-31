@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can temps from staffing agency sue warehouse for unsafe conditions?",
+  "description": "No, exclusive remedy = workers comp through agency. Third-party claims only for manufacturers.",
+  "url": "https://justworkcomplaw.com//faq/general-can-temps-from-staffing-agency-sue-warehouse-for-unsafe-conditions-256",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can temps from staffing agency sue warehouse for unsafe conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, exclusive remedy = workers comp through agency. Third-party claims only for manufacturers."
+      }
+    }
+  ]
+}

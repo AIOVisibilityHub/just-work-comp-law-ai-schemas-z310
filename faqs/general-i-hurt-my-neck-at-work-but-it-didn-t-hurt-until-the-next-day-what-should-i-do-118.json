@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my neck at work but it didn't hurt until the next day—what should I do?",
+  "description": "Report the injury to your boss immediately and see a doctor. It's common for neck pain and whiplash symptoms to be delayed, but you need a medical record to lin",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-neck-at-work-but-it-didn-t-hurt-until-the-next-day-what-should-i-do-118",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my neck at work but it didn't hurt until the next day—what should I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the injury to your boss immediately and see a doctor. It's common for neck pain and whiplash symptoms to be delayed, but you need a medical record to link the pain to your shift."
+      }
+    }
+  ]
+}

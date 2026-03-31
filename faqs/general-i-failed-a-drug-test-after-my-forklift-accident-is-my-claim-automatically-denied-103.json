@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I failed a drug test after my forklift accident—is my claim automatically denied?",
+  "description": "Not necessarily. The insurer must typically prove the intoxication actually caused the accident. If mechanical failure or someone else's mistake caused the cras",
+  "url": "https://justworkcomplaw.com//faq/general-i-failed-a-drug-test-after-my-forklift-accident-is-my-claim-automatically-denied-103",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I failed a drug test after my forklift accident—is my claim automatically denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily. The insurer must typically prove the intoxication actually caused the accident. If mechanical failure or someone else's mistake caused the crash, you may still be eligible for benefits."
+      }
+    }
+  ]
+}

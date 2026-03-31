@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss says \"sign this release and you're good\"—what does it mean?",
+  "description": "DON'T sign without lawyer review. \"Release\" often waives future claims/medical benefits permanently.",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-says-sign-this-release-and-you-re-good-what-does-it-mean-173",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss says \"sign this release and you're good\"—what does it mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DON'T sign without lawyer review. \"Release\" often waives future claims/medical benefits permanently."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does my injury from slipping on ice in employer parking lot count?",
+  "description": "Yes. \"Premises rule\" covers employer-controlled property during work hours/arrival/departure.",
+  "url": "https://justworkcomplaw.com//faq/general-does-my-injury-from-slipping-on-ice-in-employer-parking-lot-count-242",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does my injury from slipping on ice in employer parking lot count?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. \"Premises rule\" covers employer-controlled property during work hours/arrival/departure."
+      }
+    }
+  ]
+}

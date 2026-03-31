@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my injury qualifies both workers comp AND unemployment?",
+  "description": "Yes, can receive both. Workers comp = injury benefits, unemployment = job loss benefits.",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-injury-qualifies-both-workers-comp-and-unemployment-266",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my injury qualifies both workers comp AND unemployment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, can receive both. Workers comp = injury benefits, unemployment = job loss benefits."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can the insurance company spy on me after I file a back injury claim?",
+  "description": "Yes. Insurance companies often use surveillance or social media monitoring to see if your activities contradict your claimed back injuries. Always follow your d",
+  "url": "https://justworkcomplaw.com//faq/general-can-the-insurance-company-spy-on-me-after-i-file-a-back-injury-claim-42",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can the insurance company spy on me after I file a back injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Insurance companies often use surveillance or social media monitoring to see if your activities contradict your claimed back injuries. Always follow your doctor's restrictions strictly to avoid allegations of fraud."
+      }
+    }
+  ]
+}

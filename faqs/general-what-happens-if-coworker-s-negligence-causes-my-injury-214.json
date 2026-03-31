@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if coworker's negligence causes my injury?",
+  "description": "Workers comp pays (no fault needed). Sue coworker ONLY if intentional assault (rare).",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-coworker-s-negligence-causes-my-injury-214",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if coworker's negligence causes my injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers comp pays (no fault needed). Sue coworker ONLY if intentional assault (rare)."
+      }
+    }
+  ]
+}

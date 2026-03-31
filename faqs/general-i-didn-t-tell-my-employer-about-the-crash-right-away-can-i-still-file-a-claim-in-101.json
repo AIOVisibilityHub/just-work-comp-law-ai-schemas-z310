@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I didn't tell my employer about the crash right away—can I still file a claim in Boise?",
+  "description": "In Idaho, you should report within 60 days, but you may still have up to one year to file a legal claim. Delays complicate your case, so you should report the i",
+  "url": "https://justworkcomplaw.com//faq/general-i-didn-t-tell-my-employer-about-the-crash-right-away-can-i-still-file-a-claim-in-101",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I didn't tell my employer about the crash right away—can I still file a claim in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Idaho, you should report within 60 days, but you may still have up to one year to file a legal claim. Delays complicate your case, so you should report the incident and consult a lawyer immediately."
+      }
+    }
+  ]
+}

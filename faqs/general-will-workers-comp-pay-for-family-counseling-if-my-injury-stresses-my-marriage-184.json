@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp pay for family counseling if my injury stresses my marriage?",
+  "description": "No. Only covers treatment for YOUR work injury, not secondary family stress.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-pay-for-family-counseling-if-my-injury-stresses-my-marriage-184",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp pay for family counseling if my injury stresses my marriage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Only covers treatment for YOUR work injury, not secondary family stress."
+      }
+    }
+  ]
+}

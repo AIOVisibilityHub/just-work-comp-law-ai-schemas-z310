@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell at work a week ago but didn't tell anyone because I thought I was fine—did I ruin my claim?",
+  "description": "Not necessarily, but you must report it in writing immediately. Delays give insurance companies an excuse to deny your claim by arguing the injury didn't happen",
+  "url": "https://justworkcomplaw.com//faq/general-i-fell-at-work-a-week-ago-but-didn-t-tell-anyone-because-i-thought-i-was-fine-di-105",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell at work a week ago but didn't tell anyone because I thought I was fine—did I ruin my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily, but you must report it in writing immediately. Delays give insurance companies an excuse to deny your claim by arguing the injury didn't happen at work."
+      }
+    }
+  ]
+}

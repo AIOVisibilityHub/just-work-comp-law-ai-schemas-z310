@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I get re-injured at NEW job same body part?",
+  "description": "New claim. Prior injury doesn't reduce benefits unless doctor proves pre-existing impairment.",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-i-get-re-injured-at-new-job-same-body-part-236",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I get re-injured at NEW job same body part?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New claim. Prior injury doesn't reduce benefits unless doctor proves pre-existing impairment."
+      }
+    }
+  ]
+}

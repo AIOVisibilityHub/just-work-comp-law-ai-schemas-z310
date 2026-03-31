@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer wants me back at light duty, but I'm still in pain—what do I do?",
+  "description": "You must generally attempt the work if it fits your doctor's restrictions. If the work violates those restrictions, document the tasks and contact your doctor a",
+  "url": "https://justworkcomplaw.com//faq/general-employer-wants-me-back-at-light-duty-but-i-m-still-in-pain-what-do-i-do-53",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer wants me back at light duty, but I'm still in pain—what do I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must generally attempt the work if it fits your doctor's restrictions. If the work violates those restrictions, document the tasks and contact your doctor and a lawyer immediately."
+      }
+    }
+  ]
+}

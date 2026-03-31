@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does a lung infection from the office AC count as a work injury?",
+  "description": "Yes, if it is a serious condition like Legionnaires' disease or a fungal infection caused by workplace contaminants. Success depends on proving the building's e",
+  "url": "https://justworkcomplaw.com//faq/general-does-a-lung-infection-from-the-office-ac-count-as-a-work-injury-50",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does a lung infection from the office AC count as a work injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if it is a serious condition like Legionnaires' disease or a fungal infection caused by workplace contaminants. Success depends on proving the building's environment was the source, often through air quality tests and medical records linking the specific pathogen to the site."
+      }
+    }
+  ]
+}

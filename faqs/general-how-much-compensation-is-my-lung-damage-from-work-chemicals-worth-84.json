@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much compensation is my lung damage from work chemicals worth?",
+  "description": "Compensation covers all medical bills, lost wages, and permanent impairment ratings. Since lung damage often requires lifelong care, these claims can be signifi",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-compensation-is-my-lung-damage-from-work-chemicals-worth-84",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much compensation is my lung damage from work chemicals worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation covers all medical bills, lost wages, and permanent impairment ratings. Since lung damage often requires lifelong care, these claims can be significant and are calculated based on your future medical needs and reduced earning capacity."
+      }
+    }
+  ]
+}

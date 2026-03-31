@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my cancer was caused by chemicals I worked with 5 years ago?",
+  "description": "Proving long-term illness requires medical causation evidence from specialized doctors, such as toxicologists. They must link your specific workplace exposure t",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-cancer-was-caused-by-chemicals-i-worked-with-5-years-ago-65",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my cancer was caused by chemicals I worked with 5 years ago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proving long-term illness requires medical causation evidence from specialized doctors, such as toxicologists. They must link your specific workplace exposure to your current diagnosis, often by reviewing safety data and exposure levels."
+      }
+    }
+  ]
+}

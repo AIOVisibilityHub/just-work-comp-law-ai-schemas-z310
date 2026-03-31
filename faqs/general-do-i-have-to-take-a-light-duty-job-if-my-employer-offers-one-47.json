@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to take a light duty job if my employer offers one?",
+  "description": "Generally, yes—if the job fits your doctor's restrictions. If you refuse valid light duty, your benefits may be suspended. However, if the job exceeds your limi",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-take-a-light-duty-job-if-my-employer-offers-one-47",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to take a light duty job if my employer offers one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, yes—if the job fits your doctor's restrictions. If you refuse valid light duty, your benefits may be suspended. However, if the job exceeds your limitations, you have the right to refuse it."
+      }
+    }
+  ]
+}

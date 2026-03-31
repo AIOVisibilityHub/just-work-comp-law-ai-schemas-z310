@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I recover faster than expected and return to work?",
+  "description": "Benefits stop when you return to full duty at same or higher pay. Any overpayment may need repayment, but early recovery doesn't hurt future claims.",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-i-recover-faster-than-expected-and-return-to-work-159",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I recover faster than expected and return to work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Benefits stop when you return to full duty at same or higher pay. Any overpayment may need repayment, but early recovery doesn't hurt future claims."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Am I still covered by workers comp if the falling object was kind of my own fault?",
+  "description": "Yes, workers compensation in Utah and Idaho is a no-fault system. You are generally eligible for benefits even if your own mistake contributed to the injury, pr",
+  "url": "https://justworkcomplaw.com//faq/general-am-i-still-covered-by-workers-comp-if-the-falling-object-was-kind-of-my-own-faul-3",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Am I still covered by workers comp if the falling object was kind of my own fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, workers compensation in Utah and Idaho is a no-fault system. You are generally eligible for benefits even if your own mistake contributed to the injury, provided you were acting within the scope of your employment."
+      }
+    }
+  ]
+}

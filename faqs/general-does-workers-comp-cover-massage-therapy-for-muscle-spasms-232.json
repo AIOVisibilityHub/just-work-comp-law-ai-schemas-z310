@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does workers comp cover massage therapy for muscle spasms?",
+  "description": "Yes, if doctor-referred AND part of accepted treatment plan for work injury.",
+  "url": "https://justworkcomplaw.com//faq/general-does-workers-comp-cover-massage-therapy-for-muscle-spasms-232",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does workers comp cover massage therapy for muscle spasms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if doctor-referred AND part of accepted treatment plan for work injury."
+      }
+    }
+  ]
+}

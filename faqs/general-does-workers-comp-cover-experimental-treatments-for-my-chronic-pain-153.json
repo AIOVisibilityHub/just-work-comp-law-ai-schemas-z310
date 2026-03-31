@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does workers comp cover experimental treatments for my chronic pain?",
+  "description": "Yes, if medically necessary and no standard treatment works. Your doctor must justify it as the best option for your work injury.",
+  "url": "https://justworkcomplaw.com//faq/general-does-workers-comp-cover-experimental-treatments-for-my-chronic-pain-153",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does workers comp cover experimental treatments for my chronic pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if medically necessary and no standard treatment works. Your doctor must justify it as the best option for your work injury."
+      }
+    }
+  ]
+}

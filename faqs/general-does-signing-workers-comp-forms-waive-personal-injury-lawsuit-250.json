@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does signing workers comp forms waive personal injury lawsuit?",
+  "description": "No. Workers comp + third-party lawsuits run parallel. Never sign broad releases.",
+  "url": "https://justworkcomplaw.com//faq/general-does-signing-workers-comp-forms-waive-personal-injury-lawsuit-250",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does signing workers comp forms waive personal injury lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Workers comp + third-party lawsuits run parallel. Never sign broad releases."
+      }
+    }
+  ]
+}

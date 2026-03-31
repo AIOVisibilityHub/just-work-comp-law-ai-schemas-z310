@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my work injury causes infertility—covered?",
+  "description": "Yes, if medically linked. Covers testing, fertility treatment as injury consequence.",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-work-injury-causes-infertility-covered-287",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my work injury causes infertility—covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if medically linked. Covers testing, fertility treatment as injury consequence."
+      }
+    }
+  ]
+}

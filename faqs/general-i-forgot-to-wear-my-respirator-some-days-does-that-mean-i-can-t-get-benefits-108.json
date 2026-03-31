@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I forgot to wear my respirator some days—does that mean I can't get benefits?",
+  "description": "You are usually still eligible since workers comp is no-fault, but your benefits could be reduced by roughly 15% in Utah if the failure was willful. Avoid givin",
+  "url": "https://justworkcomplaw.com//faq/general-i-forgot-to-wear-my-respirator-some-days-does-that-mean-i-can-t-get-benefits-108",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I forgot to wear my respirator some days—does that mean I can't get benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You are usually still eligible since workers comp is no-fault, but your benefits could be reduced by roughly 15% in Utah if the failure was willful. Avoid giving statements to adjusters until you speak with a lawyer to prevent them from mischaracterizing your actions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My settlement check bounced—what happens to my medical coverage?",
+  "description": "Immediately notify lawyer. Insurance breach = potential bad faith claim + continued medical obligation.",
+  "url": "https://justworkcomplaw.com//faq/general-my-settlement-check-bounced-what-happens-to-my-medical-coverage-228",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My settlement check bounced—what happens to my medical coverage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately notify lawyer. Insurance breach = potential bad faith claim + continued medical obligation."
+      }
+    }
+  ]
+}

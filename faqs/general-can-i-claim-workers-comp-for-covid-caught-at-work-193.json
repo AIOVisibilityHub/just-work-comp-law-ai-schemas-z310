@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim workers comp for COVID caught at work?",
+  "description": "Yes, if outbreak linked to workplace AND you can prove exposure (coworker cases, poor ventilation).",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-claim-workers-comp-for-covid-caught-at-work-193",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim workers comp for COVID caught at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if outbreak linked to workplace AND you can prove exposure (coworker cases, poor ventilation)."
+      }
+    }
+  ]
+}

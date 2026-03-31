@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I need surgery but the insurance company says no?",
+  "description": "You have appeal rights. Your surgeon must provide detailed justification linking the surgery to your work injury. A lawyer can expedite approval and prevent imp",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-i-need-surgery-but-the-insurance-company-says-no-140",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I need surgery but the insurance company says no?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You have appeal rights. Your surgeon must provide detailed justification linking the surgery to your work injury. A lawyer can expedite approval and prevent improper denials."
+      }
+    }
+  ]
+}

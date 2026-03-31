@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp pay for home modifications if I can't use stairs after my injury?",
+  "description": "Yes, if medically necessary and cheaper than alternatives. Covers ramps, grab bars, etc., when permanent restrictions make your home unsafe.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-pay-for-home-modifications-if-i-can-t-use-stairs-after-my-inju-160",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp pay for home modifications if I can't use stairs after my injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if medically necessary and cheaper than alternatives. Covers ramps, grab bars, etc., when permanent restrictions make your home unsafe."
+      }
+    }
+  ]
+}

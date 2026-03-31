@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp pay for pain management clinic long-term?",
+  "description": "Yes, if doctor documents medical necessity AND no addiction issues.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-pay-for-pain-management-clinic-long-term-255",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp pay for pain management clinic long-term?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if doctor documents medical necessity AND no addiction issues."
+      }
+    }
+  ]
+}

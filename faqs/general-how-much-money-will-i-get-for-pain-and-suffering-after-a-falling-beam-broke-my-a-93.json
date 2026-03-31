@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money will I get for pain and suffering after a falling beam broke my arm?",
+  "description": "Workers comp does not pay for pain and suffering, but it does cover medical bills, lost wages, and permanent disability. If a third party was responsible, you m",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-will-i-get-for-pain-and-suffering-after-a-falling-beam-broke-my-a-93",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money will I get for pain and suffering after a falling beam broke my arm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers comp does not pay for pain and suffering, but it does cover medical bills, lost wages, and permanent disability. If a third party was responsible, you may be able to sue for pain and suffering through a separate personal injury claim."
+      }
+    }
+  ]
+}

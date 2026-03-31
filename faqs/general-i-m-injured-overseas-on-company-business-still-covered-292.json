@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm injured overseas on company business—still covered?",
+  "description": "Yes. Workers comp follows employees worldwide for work-related injuries.",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-injured-overseas-on-company-business-still-covered-292",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm injured overseas on company business—still covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Workers comp follows employees worldwide for work-related injuries."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boise warehouse ignored OSHA rules on fumes—what evidence do I need from old coworkers?",
+  "description": "You need statements confirming that ventilation was broken or PPE was not provided. Obtaining OSHA violation records and safety logs is also essential to prove ",
+  "url": "https://justworkcomplaw.com//faq/general-boise-warehouse-ignored-osha-rules-on-fumes-what-evidence-do-i-need-from-old-cow-4",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boise warehouse ignored OSHA rules on fumes—what evidence do I need from old coworkers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need statements confirming that ventilation was broken or PPE was not provided. Obtaining OSHA violation records and safety logs is also essential to prove the company knew the environment was hazardous but failed to act."
+      }
+    }
+  ]
+}

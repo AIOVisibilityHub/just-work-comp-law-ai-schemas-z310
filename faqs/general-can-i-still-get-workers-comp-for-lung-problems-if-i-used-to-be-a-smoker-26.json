@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still get workers comp for lung problems if I used to be a smoker?",
+  "description": "Yes, you can still qualify if workplace exposure significantly aggravated your condition or contributed to the illness. You will need a medical expert to testif",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-still-get-workers-comp-for-lung-problems-if-i-used-to-be-a-smoker-26",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still get workers comp for lung problems if I used to be a smoker?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can still qualify if workplace exposure significantly aggravated your condition or contributed to the illness. You will need a medical expert to testify that your job was a substantial contributing factor despite your smoking history."
+      }
+    }
+  ]
+}

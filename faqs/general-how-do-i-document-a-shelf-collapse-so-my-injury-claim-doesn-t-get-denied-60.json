@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I document a shelf collapse so my injury claim doesn't get denied?",
+  "description": "Take photos of the collapsed shelf and the object that hit you. Save witness contact information and ensure every medical record explicitly links your injury to",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-document-a-shelf-collapse-so-my-injury-claim-doesn-t-get-denied-60",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I document a shelf collapse so my injury claim doesn't get denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Take photos of the collapsed shelf and the object that hit you. Save witness contact information and ensure every medical record explicitly links your injury to the workplace event. Documentation is key to overcoming insurance company denials."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if I qualify for permanent total disability?",
+  "description": "PTD is for those who cannot perform any gainful work in the open labor market. Factors like age, education, and physical limitations are all considered. Proving",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-know-if-i-qualify-for-permanent-total-disability-62",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if I qualify for permanent total disability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PTD is for those who cannot perform any gainful work in the open labor market. Factors like age, education, and physical limitations are all considered. Proving this usually requires vocational experts and specialized legal strategy."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between TTD and TPD benefits?",
+  "description": "TTD (Temporary Total Disability) pays when you're completely off work. TPD (Temporary Partial Disability) pays when you're on light duty earning less than befor",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-difference-between-ttd-and-tpd-benefits-143",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between TTD and TPD benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TTD (Temporary Total Disability) pays when you're completely off work. TPD (Temporary Partial Disability) pays when you're on light duty earning less than before—covers the wage difference."
+      }
+    }
+  ]
+}

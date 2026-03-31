@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my lifting injury is serious enough to need a workers comp lawyer?",
+  "description": "If your injury involves surgery, permanent pain, or a denied claim, you should consult a lawyer. Even if the claim is currently accepted, an attorney ensures yo",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-know-if-my-lifting-injury-is-serious-enough-to-need-a-workers-comp-lawy-63",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my lifting injury is serious enough to need a workers comp lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your injury involves surgery, permanent pain, or a denied claim, you should consult a lawyer. Even if the claim is currently accepted, an attorney ensures you receive a fair impairment rating and that your long-term medical needs are fully funded."
+      }
+    }
+  ]
+}

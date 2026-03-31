@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I record my doctor's workers comp exam for evidence?",
+  "description": "Yes, with doctor permission. Protects against misquoted exam findings or insurance distortion.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-record-my-doctor-s-workers-comp-exam-for-evidence-231",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I record my doctor's workers comp exam for evidence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with doctor permission. Protects against misquoted exam findings or insurance distortion."
+      }
+    }
+  ]
+}

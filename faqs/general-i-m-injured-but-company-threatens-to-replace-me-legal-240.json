@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm injured but company threatens to replace me—legal?",
+  "description": "No. ADA/FMLA protect serious health conditions. Document threats for retaliation claim.",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-injured-but-company-threatens-to-replace-me-legal-240",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm injured but company threatens to replace me—legal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. ADA/FMLA protect serious health conditions. Document threats for retaliation claim."
+      }
+    }
+  ]
+}

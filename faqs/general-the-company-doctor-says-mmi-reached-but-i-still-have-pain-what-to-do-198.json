@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The company doctor says MMI reached but I still have pain—what to do?",
+  "description": "Get independent medical exam. Pain = valid symptom. Impairment ratings must consider ongoing symptoms.",
+  "url": "https://justworkcomplaw.com//faq/general-the-company-doctor-says-mmi-reached-but-i-still-have-pain-what-to-do-198",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The company doctor says MMI reached but I still have pain—what to do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get independent medical exam. Pain = valid symptom. Impairment ratings must consider ongoing symptoms."
+      }
+    }
+  ]
+}

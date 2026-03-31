@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my injury prevents me from getting promoted?",
+  "description": "Workers comp doesn't cover \"lost career opportunity.\" Only medical bills, wage loss, permanent impairment.",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-injury-prevents-me-from-getting-promoted-191",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my injury prevents me from getting promoted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers comp doesn't cover \"lost career opportunity.\" Only medical bills, wage loss, permanent impairment."
+      }
+    }
+  ]
+}

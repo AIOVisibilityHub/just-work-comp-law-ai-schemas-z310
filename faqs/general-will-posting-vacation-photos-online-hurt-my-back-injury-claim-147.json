@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will posting vacation photos online hurt my back injury claim?",
+  "description": "Possibly. Insurance investigates social media. Stick to doctor restrictions and avoid posting anything showing physical exertion while claiming disability.",
+  "url": "https://justworkcomplaw.com//faq/general-will-posting-vacation-photos-online-hurt-my-back-injury-claim-147",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will posting vacation photos online hurt my back injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possibly. Insurance investigates social media. Stick to doctor restrictions and avoid posting anything showing physical exertion while claiming disability."
+      }
+    }
+  ]
+}

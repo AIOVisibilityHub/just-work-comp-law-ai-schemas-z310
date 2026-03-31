@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just got hit by a forklift at my warehouse job—what are the very first things I need to do?",
+  "description": "Report the injury to your supervisor immediately and seek medical evaluation. Document the scene with photos of the forklift and environment, and gather witness",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-got-hit-by-a-forklift-at-my-warehouse-job-what-are-the-very-first-things--120",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just got hit by a forklift at my warehouse job—what are the very first things I need to do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the injury to your supervisor immediately and seek medical evaluation. Document the scene with photos of the forklift and environment, and gather witness names to ensure your workers comp claim has the necessary evidence from day one."
+      }
+    }
+  ]
+}

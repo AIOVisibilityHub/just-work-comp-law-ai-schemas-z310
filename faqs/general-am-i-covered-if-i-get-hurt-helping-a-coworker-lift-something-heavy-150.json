@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Am I covered if I get hurt helping a coworker lift something heavy?",
+  "description": "Yes. Injuries while helping coworkers (within job scope) are covered. No need to prove whose task it was—just that it happened at work.",
+  "url": "https://justworkcomplaw.com//faq/general-am-i-covered-if-i-get-hurt-helping-a-coworker-lift-something-heavy-150",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Am I covered if I get hurt helping a coworker lift something heavy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Injuries while helping coworkers (within job scope) are covered. No need to prove whose task it was—just that it happened at work."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to report a forklift accident in Utah before it's too late to file a claim?",
+  "description": "In Utah, you should report the injury within 30 days and file a formal claim within one year. Idaho allows 60 days for notice, but reporting immediately is alwa",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-report-a-forklift-accident-in-utah-before-it-s-too-late-to-78",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to report a forklift accident in Utah before it's too late to file a claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Utah, you should report the injury within 30 days and file a formal claim within one year. Idaho allows 60 days for notice, but reporting immediately is always safer to prevent insurance disputes."
+      }
+    }
+  ]
+}

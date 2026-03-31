@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer closed location after my injury—still get benefits?",
+  "description": "Yes. Insurance follows you. Company dissolution = state guaranty fund pays claims.",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-closed-location-after-my-injury-still-get-benefits-245",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer closed location after my injury—still get benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Insurance follows you. Company dissolution = state guaranty fund pays claims."
+      }
+    }
+  ]
+}

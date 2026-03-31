@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just got hurt by a machine at work—what are the very first things I need to do?",
+  "description": "Immediately seek medical care and report the injury to your supervisor in writing. Document the machine's ID number, take photos of the accident scene if possib",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-got-hurt-by-a-machine-at-work-what-are-the-very-first-things-i-need-to-do-122",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just got hurt by a machine at work—what are the very first things I need to do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately seek medical care and report the injury to your supervisor in writing. Document the machine's ID number, take photos of the accident scene if possible, and identify any witnesses to ensure your workers comp claim is preserved."
+      }
+    }
+  ]
+}

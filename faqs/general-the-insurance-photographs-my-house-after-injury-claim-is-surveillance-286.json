@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The insurance photographs my house after injury claim—is surveillance?",
+  "description": "Yes. They're checking yard work, carrying groceries. Follow doctor limits exactly.",
+  "url": "https://justworkcomplaw.com//faq/general-the-insurance-photographs-my-house-after-injury-claim-is-surveillance-286",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The insurance photographs my house after injury claim—is surveillance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. They're checking yard work, carrying groceries. Follow doctor limits exactly."
+      }
+    }
+  ]
+}

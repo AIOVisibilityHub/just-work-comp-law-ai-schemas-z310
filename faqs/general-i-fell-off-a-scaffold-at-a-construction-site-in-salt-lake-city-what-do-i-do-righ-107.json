@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell off a scaffold at a construction site in Salt Lake City—what do I do right now?",
+  "description": "Report the injury to your supervisor immediately and seek medical care. Document the equipment and scene with photos, then contact a workers comp attorney to pr",
+  "url": "https://justworkcomplaw.com//faq/general-i-fell-off-a-scaffold-at-a-construction-site-in-salt-lake-city-what-do-i-do-righ-107",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell off a scaffold at a construction site in Salt Lake City—what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the injury to your supervisor immediately and seek medical care. Document the equipment and scene with photos, then contact a workers comp attorney to protect your right to medical benefits and lost wages."
+      }
+    }
+  ]
+}

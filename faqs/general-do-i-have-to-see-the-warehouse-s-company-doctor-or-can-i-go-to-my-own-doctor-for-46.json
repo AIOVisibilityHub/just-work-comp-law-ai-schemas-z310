@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to see the warehouse's company doctor, or can I go to my own doctor for my injury?",
+  "description": "Initially, the employer usually picks the doctor. However, you often have a legal right to change doctors or get a second opinion. You must follow specific noti",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-see-the-warehouse-s-company-doctor-or-can-i-go-to-my-own-doctor-for-46",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to see the warehouse's company doctor, or can I go to my own doctor for my injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initially, the employer usually picks the doctor. However, you often have a legal right to change doctors or get a second opinion. You must follow specific notice rules to ensure the insurance company still pays the bills."
+      }
+    }
+  ]
+}

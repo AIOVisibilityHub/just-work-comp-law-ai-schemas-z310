@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I move to another state after settlement?",
+  "description": "Benefits follow you. Medical care transfers to local providers. Payments continue unchanged.",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-i-move-to-another-state-after-settlement-199",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I move to another state after settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Benefits follow you. Medical care transfers to local providers. Payments continue unchanged."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for eye strain from computer work all day?",
+  "description": "Yes, if diagnosed repetitive strain/computer vision syndrome linked specifically to job tasks.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-eye-strain-from-computer-work-all-day-224",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for eye strain from computer work all day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if diagnosed repetitive strain/computer vision syndrome linked specifically to job tasks."
+      }
+    }
+  ]
+}

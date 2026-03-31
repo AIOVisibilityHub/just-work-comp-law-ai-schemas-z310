@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss says I'm \"faking\" until doctors prove otherwise—what now?",
+  "description": "Ignore. Get medical evidence linking injury to work. Boss opinions = legally irrelevant.",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-says-i-m-faking-until-doctors-prove-otherwise-what-now-197",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss says I'm \"faking\" until doctors prove otherwise—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ignore. Get medical evidence linking injury to work. Boss opinions = legally irrelevant."
+      }
+    }
+  ]
+}

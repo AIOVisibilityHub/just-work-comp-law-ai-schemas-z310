@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got hurt by a machine at my factory job—can I sue the manufacturer even if I have workers comp?",
+  "description": "Yes. You can file for workers comp and simultaneously sue the machine manufacturer if a defect caused the injury. This third-party claim allows for pain and suf",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-hurt-by-a-machine-at-my-factory-job-can-i-sue-the-manufacturer-even-if-i-h-112",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got hurt by a machine at my factory job—can I sue the manufacturer even if I have workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You can file for workers comp and simultaneously sue the machine manufacturer if a defect caused the injury. This third-party claim allows for pain and suffering damages."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My doctor retired—can workers comp force me to new doctor?",
+  "description": "No. You choose replacement. Insurance pays reasonable local providers for continuity of care.",
+  "url": "https://justworkcomplaw.com//faq/general-my-doctor-retired-can-workers-comp-force-me-to-new-doctor-220",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My doctor retired—can workers comp force me to new doctor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. You choose replacement. Insurance pays reasonable local providers for continuity of care."
+      }
+    }
+  ]
+}

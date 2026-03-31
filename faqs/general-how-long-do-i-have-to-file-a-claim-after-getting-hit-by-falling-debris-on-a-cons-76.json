@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a claim after getting hit by falling debris on a construction site?",
+  "description": "Deadlines vary by state—Utah requires reporting within 180 days, while Idaho requires notice within 60 days. Filing a formal claim also has specific statutes of",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-file-a-claim-after-getting-hit-by-falling-debris-on-a-cons-76",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a claim after getting hit by falling debris on a construction site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deadlines vary by state—Utah requires reporting within 180 days, while Idaho requires notice within 60 days. Filing a formal claim also has specific statutes of limitations, so you should report the incident and seek legal advice immediately to avoid losing your rights."
+      }
+    }
+  ]
+}

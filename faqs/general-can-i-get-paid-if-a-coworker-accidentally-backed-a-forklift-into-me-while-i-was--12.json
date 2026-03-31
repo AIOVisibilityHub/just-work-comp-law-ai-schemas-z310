@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get paid if a coworker accidentally backed a forklift into me while I was walking to the breakroom?",
+  "description": "Yes. As long as you were at work, injuries caused by coworkers are covered by workers compensation. You don't need to prove they were being bad at their job, on",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-paid-if-a-coworker-accidentally-backed-a-forklift-into-me-while-i-was--12",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get paid if a coworker accidentally backed a forklift into me while I was walking to the breakroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. As long as you were at work, injuries caused by coworkers are covered by workers compensation. You don't need to prove they were being bad at their job, only that the accident happened at work."
+      }
+    }
+  ]
+}

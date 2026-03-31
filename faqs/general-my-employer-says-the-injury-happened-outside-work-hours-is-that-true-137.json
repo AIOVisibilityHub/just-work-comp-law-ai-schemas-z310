@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer says the injury happened outside work hours—is that true?",
+  "description": "No. If you were on premises or performing work duties, it's covered regardless of exact clock-in time. The \"premises rule\" and \"course of employment\" protect yo",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-says-the-injury-happened-outside-work-hours-is-that-true-137",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer says the injury happened outside work hours—is that true?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. If you were on premises or performing work duties, it's covered regardless of exact clock-in time. The \"premises rule\" and \"course of employment\" protect you."
+      }
+    }
+  ]
+}

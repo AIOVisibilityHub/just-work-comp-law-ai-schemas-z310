@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my benefits stop if I move out of state?",
+  "description": "No. Workers comp benefits follow you anywhere. You can treat with local doctors, and payments continue based on your home state's rules.",
+  "url": "https://justworkcomplaw.com//faq/general-will-my-benefits-stop-if-i-move-out-of-state-146",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my benefits stop if I move out of state?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Workers comp benefits follow you anywhere. You can treat with local doctors, and payments continue based on your home state's rules."
+      }
+    }
+  ]
+}

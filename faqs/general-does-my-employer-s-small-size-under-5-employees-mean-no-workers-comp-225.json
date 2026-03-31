@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does my employer's small size (under 5 employees) mean no workers comp?",
+  "description": "No. Utah/Idaho REQUIRE coverage for ALL employers. Uninsured = state fund pays your claim.",
+  "url": "https://justworkcomplaw.com//faq/general-does-my-employer-s-small-size-under-5-employees-mean-no-workers-comp-225",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does my employer's small size (under 5 employees) mean no workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Utah/Idaho REQUIRE coverage for ALL employers. Uninsured = state fund pays your claim."
+      }
+    }
+  ]
+}

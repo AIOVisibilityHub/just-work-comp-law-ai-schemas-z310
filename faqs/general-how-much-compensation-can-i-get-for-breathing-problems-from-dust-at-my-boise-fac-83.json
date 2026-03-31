@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much compensation can I get for breathing problems from dust at my Boise factory job?",
+  "description": "Compensation includes coverage for all medical bills and roughly 66% of lost wages. If the damage is permanent, you may receive a disability settlement based on",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-compensation-can-i-get-for-breathing-problems-from-dust-at-my-boise-fac-83",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much compensation can I get for breathing problems from dust at my Boise factory job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation includes coverage for all medical bills and roughly 66% of lost wages. If the damage is permanent, you may receive a disability settlement based on your age, wage, and the severity of your lung impairment under Idaho's disability schedules."
+      }
+    }
+  ]
+}

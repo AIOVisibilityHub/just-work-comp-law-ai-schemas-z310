@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss for toxic fumes at my Salt Lake job if workers comp won't cover my cancer treatment?",
+  "description": "Generally, you cannot sue your employer directly due to exclusive remedy laws, but you may have a third-party claim against chemical manufacturers. Workers comp",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-for-toxic-fumes-at-my-salt-lake-job-if-workers-comp-won-t-cove-29",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss for toxic fumes at my Salt Lake job if workers comp won't cover my cancer treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, you cannot sue your employer directly due to exclusive remedy laws, but you may have a third-party claim against chemical manufacturers. Workers comp should cover cancer treatment if the link is proven, but a lawsuit may be possible against negligent third parties for additional damages."
+      }
+    }
+  ]
+}

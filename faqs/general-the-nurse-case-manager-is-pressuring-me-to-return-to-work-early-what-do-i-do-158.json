@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The nurse case manager is pressuring me to return to work early—what do I do?",
+  "description": "Follow your treating doctor's restrictions only. Nurse case managers work for insurance—your doctor controls work status. Document all pressure attempts.",
+  "url": "https://justworkcomplaw.com//faq/general-the-nurse-case-manager-is-pressuring-me-to-return-to-work-early-what-do-i-do-158",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The nurse case manager is pressuring me to return to work early—what do I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow your treating doctor's restrictions only. Nurse case managers work for insurance—your doctor controls work status. Document all pressure attempts."
+      }
+    }
+  ]
+}

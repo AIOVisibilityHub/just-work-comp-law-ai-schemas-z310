@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do they calculate the settlement for a tool malfunction injury?",
+  "description": "Settlements are based on your medical costs, two-thirds of your lost wages, and your permanent impairment rating. Third-party lawsuits add pain and suffering an",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-they-calculate-the-settlement-for-a-tool-malfunction-injury-71",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do they calculate the settlement for a tool malfunction injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Settlements are based on your medical costs, two-thirds of your lost wages, and your permanent impairment rating. Third-party lawsuits add pain and suffering and full wage loss to that total."
+      }
+    }
+  ]
+}

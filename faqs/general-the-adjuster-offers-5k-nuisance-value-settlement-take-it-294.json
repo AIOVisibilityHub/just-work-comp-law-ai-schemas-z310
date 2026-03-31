@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The adjuster offers $5K \"nuisance value\" settlement—take it?",
+  "description": "No. Minimum value usually 3-5x that. Wait for impairment rating + full medical.",
+  "url": "https://justworkcomplaw.com//faq/general-the-adjuster-offers-5k-nuisance-value-settlement-take-it-294",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The adjuster offers $5K \"nuisance value\" settlement—take it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Minimum value usually 3-5x that. Wait for impairment rating + full medical."
+      }
+    }
+  ]
+}

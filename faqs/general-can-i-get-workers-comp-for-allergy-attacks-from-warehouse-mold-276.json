@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for allergy attacks from warehouse mold?",
+  "description": "Yes, if diagnosed occupational asthma AND workplace mold confirmed as trigger.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-allergy-attacks-from-warehouse-mold-276",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for allergy attacks from warehouse mold?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if diagnosed occupational asthma AND workplace mold confirmed as trigger."
+      }
+    }
+  ]
+}

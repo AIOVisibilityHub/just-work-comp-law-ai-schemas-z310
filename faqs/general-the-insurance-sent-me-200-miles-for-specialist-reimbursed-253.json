@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The insurance sent me 200 miles for specialist—reimbursed?",
+  "description": "Yes, mileage + time. Must be \"reasonable\" distance. Local specialist preferred.",
+  "url": "https://justworkcomplaw.com//faq/general-the-insurance-sent-me-200-miles-for-specialist-reimbursed-253",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The insurance sent me 200 miles for specialist—reimbursed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, mileage + time. Must be \"reasonable\" distance. Local specialist preferred."
+      }
+    }
+  ]
+}

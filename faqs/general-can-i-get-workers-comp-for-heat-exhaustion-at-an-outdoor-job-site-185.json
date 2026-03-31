@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for heat exhaustion at an outdoor job site?",
+  "description": "Yes. Heat-related illness is compensable when work conditions (no shade, heavy exertion) caused it.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-heat-exhaustion-at-an-outdoor-job-site-185",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for heat exhaustion at an outdoor job site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Heat-related illness is compensable when work conditions (no shade, heavy exertion) caused it."
+      }
+    }
+  ]
+}

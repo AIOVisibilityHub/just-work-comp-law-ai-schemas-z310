@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my work injury causes high blood pressure from stress?",
+  "description": "No. Normal job stress ≠ compensable. Must be extraordinary event causing diagnosed condition.",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-work-injury-causes-high-blood-pressure-from-stress-207",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my work injury causes high blood pressure from stress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Normal job stress ≠ compensable. Must be extraordinary event causing diagnosed condition."
+      }
+    }
+  ]
+}

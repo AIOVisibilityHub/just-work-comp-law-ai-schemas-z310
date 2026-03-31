@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm a temp worker at a warehouse in Ogden. Am I still covered by workers comp if I get hurt on the job?",
+  "description": "Yes. Usually, the staffing agency provides your workers comp coverage. You must report the accident to both the warehouse and your agency immediately to ensure ",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-a-temp-worker-at-a-warehouse-in-ogden-am-i-still-covered-by-workers-comp-if--128",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm a temp worker at a warehouse in Ogden. Am I still covered by workers comp if I get hurt on the job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Usually, the staffing agency provides your workers comp coverage. You must report the accident to both the warehouse and your agency immediately to ensure your benefits are protected."
+      }
+    }
+  ]
+}

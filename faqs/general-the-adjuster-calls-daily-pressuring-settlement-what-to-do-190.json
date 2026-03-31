@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The adjuster calls daily pressuring settlement—what to do?",
+  "description": "Stop answering. Have lawyer handle all communication. Pressure = red flag they're scared of your case value.",
+  "url": "https://justworkcomplaw.com//faq/general-the-adjuster-calls-daily-pressuring-settlement-what-to-do-190",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The adjuster calls daily pressuring settlement—what to do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stop answering. Have lawyer handle all communication. Pressure = red flag they're scared of your case value."
+      }
+    }
+  ]
+}

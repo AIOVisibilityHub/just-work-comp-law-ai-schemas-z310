@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The adjuster recorded call without telling me—is that legal?",
+  "description": "Yes, Utah one-party consent. But using against you = potential bad faith if misrepresented.",
+  "url": "https://justworkcomplaw.com//faq/general-the-adjuster-recorded-call-without-telling-me-is-that-legal-246",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The adjuster recorded call without telling me—is that legal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Utah one-party consent. But using against you = potential bad faith if misrepresented."
+      }
+    }
+  ]
+}

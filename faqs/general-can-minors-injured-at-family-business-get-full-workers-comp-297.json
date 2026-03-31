@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can minors injured at family business get full workers comp?",
+  "description": "Yes. Child labor laws don't affect injury benefits. Full medical/wage replacement.",
+  "url": "https://justworkcomplaw.com//faq/general-can-minors-injured-at-family-business-get-full-workers-comp-297",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can minors injured at family business get full workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Child labor laws don't affect injury benefits. Full medical/wage replacement."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does workers comp cover wigs/hairpieces if chemo treats work-related cancer?",
+  "description": "Yes, if medically necessary for psychological well-being post-treatment. Doctor must document need.",
+  "url": "https://justworkcomplaw.com//faq/general-does-workers-comp-cover-wigs-hairpieces-if-chemo-treats-work-related-cancer-202",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does workers comp cover wigs/hairpieces if chemo treats work-related cancer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if medically necessary for psychological well-being post-treatment. Doctor must document need."
+      }
+    }
+  ]
+}

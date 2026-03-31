@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a claim in Utah if I'm too hurt to work?",
+  "description": "In Utah, you generally have one year to notify your employer of the injury and six years to file a formal claim. However, immediate reporting is essential to se",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-file-a-claim-in-utah-if-i-m-too-hurt-to-work-77",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a claim in Utah if I'm too hurt to work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Utah, you generally have one year to notify your employer of the injury and six years to file a formal claim. However, immediate reporting is essential to secure wage replacement benefits without delay."
+      }
+    }
+  ]
+}

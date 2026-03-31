@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does it matter that my forklift accident happened in Texas instead of Utah? Are the laws different?",
+  "description": "Yes, laws vary significantly. Texas allows some employers to opt out of workers comp, potentially allowing for a direct lawsuit. Colorado has strict penalties f",
+  "url": "https://justworkcomplaw.com//faq/general-does-it-matter-that-my-forklift-accident-happened-in-texas-instead-of-utah-are-t-51",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does it matter that my forklift accident happened in Texas instead of Utah? Are the laws different?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, laws vary significantly. Texas allows some employers to opt out of workers comp, potentially allowing for a direct lawsuit. Colorado has strict penalties for safety violations that could cut benefits in half. Our firm navigates these specific state rules."
+      }
+    }
+  ]
+}

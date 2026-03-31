@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is a workplace mold or chemical exposure settlement worth?",
+  "description": "Settlements cover all medical expenses and a portion of lost wages, but the total value depends on your permanent impairment rating and impact on future earning",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-a-workplace-mold-or-chemical-exposure-settlement-worth-87",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is a workplace mold or chemical exposure settlement worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Settlements cover all medical expenses and a portion of lost wages, but the total value depends on your permanent impairment rating and impact on future earnings. Permanent lung damage often leads to significant settlements for ongoing care and disability."
+      }
+    }
+  ]
+}

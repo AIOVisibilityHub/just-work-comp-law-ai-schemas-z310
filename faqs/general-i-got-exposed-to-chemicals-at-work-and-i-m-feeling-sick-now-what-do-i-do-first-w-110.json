@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got exposed to chemicals at work and I'm feeling sick now—what do I do first without getting fired?",
+  "description": "Seek medical care immediately and notify your employer in writing about the exposure. Document the specific chemicals involved by requesting Safety Data Sheets ",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-exposed-to-chemicals-at-work-and-i-m-feeling-sick-now-what-do-i-do-first-w-110",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got exposed to chemicals at work and I'm feeling sick now—what do I do first without getting fired?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek medical care immediately and notify your employer in writing about the exposure. Document the specific chemicals involved by requesting Safety Data Sheets (SDS) and keep a record of your symptoms to ensure your claim is protected under Utah's reporting deadlines."
+      }
+    }
+  ]
+}

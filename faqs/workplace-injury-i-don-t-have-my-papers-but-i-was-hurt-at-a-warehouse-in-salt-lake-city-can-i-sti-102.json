@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I don't have my papers, but I was hurt at a warehouse in Salt Lake City. Can I still get help or will I get in trouble?",
+  "description": "Yes, you are eligible for workers comp regardless of immigration status. It is illegal for employers to deny benefits or threaten you based on your status follo",
+  "url": "https://justworkcomplaw.com//faq/workplace-injury-i-don-t-have-my-papers-but-i-was-hurt-at-a-warehouse-in-salt-lake-city-can-i-sti-102",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I don't have my papers, but I was hurt at a warehouse in Salt Lake City. Can I still get help or will I get in trouble?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you are eligible for workers comp regardless of immigration status. It is illegal for employers to deny benefits or threaten you based on your status following a workplace injury."
+      }
+    }
+  ]
+}

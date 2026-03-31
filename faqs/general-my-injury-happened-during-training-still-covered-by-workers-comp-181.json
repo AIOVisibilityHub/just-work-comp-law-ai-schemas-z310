@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My injury happened during training—still covered by workers comp?",
+  "description": "Yes, 100% covered. Training is considered \"course of employment\" even if unpaid or pre-employment.",
+  "url": "https://justworkcomplaw.com//faq/general-my-injury-happened-during-training-still-covered-by-workers-comp-181",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My injury happened during training—still covered by workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 100% covered. Training is considered \"course of employment\" even if unpaid or pre-employment."
+      }
+    }
+  ]
+}

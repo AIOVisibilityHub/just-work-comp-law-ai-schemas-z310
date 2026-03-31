@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm settled but arthritis develops in injured joint—is it covered?",
+  "description": "Yes, if doctor links progression to original trauma. \"Natural consequences\" doctrine applies.",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-settled-but-arthritis-develops-in-injured-joint-is-it-covered-284",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm settled but arthritis develops in injured joint—is it covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if doctor links progression to original trauma. \"Natural consequences\" doctrine applies."
+      }
+    }
+  ]
+}

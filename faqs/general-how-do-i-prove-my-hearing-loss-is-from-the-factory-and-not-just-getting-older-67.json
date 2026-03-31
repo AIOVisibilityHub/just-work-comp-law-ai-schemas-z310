@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my hearing loss is from the factory and not just getting older?",
+  "description": "Success requires an audiogram showing specific noise-induced patterns and a medical opinion linking that damage to workplace decibel levels. Comparing your hear",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-hearing-loss-is-from-the-factory-and-not-just-getting-older-67",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my hearing loss is from the factory and not just getting older?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Success requires an audiogram showing specific noise-induced patterns and a medical opinion linking that damage to workplace decibel levels. Comparing your hearing to people of the same age who don't work in factories is a common strategy to prove causation."
+      }
+    }
+  ]
+}

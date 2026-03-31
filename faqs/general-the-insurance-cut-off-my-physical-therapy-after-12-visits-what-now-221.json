@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The insurance cut off my physical therapy after 12 visits—what now?",
+  "description": "Appeal with doctor letter showing continued medical necessity. Most policies cover reasonable duration.",
+  "url": "https://justworkcomplaw.com//faq/general-the-insurance-cut-off-my-physical-therapy-after-12-visits-what-now-221",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The insurance cut off my physical therapy after 12 visits—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal with doctor letter showing continued medical necessity. Most policies cover reasonable duration."
+      }
+    }
+  ]
+}

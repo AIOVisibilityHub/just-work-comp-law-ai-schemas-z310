@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My injury happened helping customer outside normal duties—is it covered?",
+  "description": "Yes. \"Special mission\" or good samaritan acts within employment scope = compensable.",
+  "url": "https://justworkcomplaw.com//faq/general-my-injury-happened-helping-customer-outside-normal-duties-is-it-covered-212",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My injury happened helping customer outside normal duties—is it covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. \"Special mission\" or good samaritan acts within employment scope = compensable."
+      }
+    }
+  ]
+}

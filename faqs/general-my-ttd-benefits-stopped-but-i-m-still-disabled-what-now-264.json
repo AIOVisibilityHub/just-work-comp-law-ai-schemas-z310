@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My TTD benefits stopped but I'm still disabled—what now?",
+  "description": "Appeal immediately. Get updated doctor restrictions showing continued total disability.",
+  "url": "https://justworkcomplaw.com//faq/general-my-ttd-benefits-stopped-but-i-m-still-disabled-what-now-264",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My TTD benefits stopped but I'm still disabled—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal immediately. Get updated doctor restrictions showing continued total disability."
+      }
+    }
+  ]
+}

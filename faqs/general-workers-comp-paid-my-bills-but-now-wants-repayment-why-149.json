@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Workers comp paid my bills but now wants repayment—why?",
+  "description": "They may seek subrogation if a third party caused your injury. You keep pain & suffering damages, but they recover medical payments from that settlement.",
+  "url": "https://justworkcomplaw.com//faq/general-workers-comp-paid-my-bills-but-now-wants-repayment-why-149",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Workers comp paid my bills but now wants repayment—why?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They may seek subrogation if a third party caused your injury. You keep pain & suffering damages, but they recover medical payments from that settlement."
+      }
+    }
+  ]
+}

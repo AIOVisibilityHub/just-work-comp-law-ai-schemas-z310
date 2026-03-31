@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I get the maintenance logs for the forklift that hit me? I think it had bad brakes.",
+  "description": "You typically need a lawyer to formally request or subpoena those records. Maintenance logs are crucial for proving that equipment failure, rather than your own",
+  "url": "https://justworkcomplaw.com//faq/general-how-can-i-get-the-maintenance-logs-for-the-forklift-that-hit-me-i-think-it-had-b-59",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I get the maintenance logs for the forklift that hit me? I think it had bad brakes.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically need a lawyer to formally request or subpoena those records. Maintenance logs are crucial for proving that equipment failure, rather than your own actions, caused the accident."
+      }
+    }
+  ]
+}

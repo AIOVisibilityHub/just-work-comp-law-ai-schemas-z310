@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much will I actually get paid every week while I'm out with a back injury?",
+  "description": "You typically receive about two-thirds of your average weekly wage in tax-free disability payments. These payments continue until you are cleared to return to w",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-will-i-actually-get-paid-every-week-while-i-m-out-with-a-back-injury-95",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much will I actually get paid every week while I'm out with a back injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically receive about two-thirds of your average weekly wage in tax-free disability payments. These payments continue until you are cleared to return to work or reach maximum medical improvement."
+      }
+    }
+  ]
+}

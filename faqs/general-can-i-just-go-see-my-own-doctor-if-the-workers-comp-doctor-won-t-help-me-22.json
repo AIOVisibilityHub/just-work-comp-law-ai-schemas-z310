@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I just go see my own doctor if the workers comp doctor won't help me?",
+  "description": "Be careful. If you see your own doctor without insurance authorization, they may refuse to pay the bill. You have the right to request a change of doctor, but y",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-just-go-see-my-own-doctor-if-the-workers-comp-doctor-won-t-help-me-22",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I just go see my own doctor if the workers comp doctor won't help me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Be careful. If you see your own doctor without insurance authorization, they may refuse to pay the bill. You have the right to request a change of doctor, but you must follow specific legal steps to ensure the bills are covered."
+      }
+    }
+  ]
+}

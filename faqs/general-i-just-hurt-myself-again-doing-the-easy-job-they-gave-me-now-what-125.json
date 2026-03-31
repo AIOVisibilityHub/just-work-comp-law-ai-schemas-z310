@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just hurt myself again doing the easy job they gave me—now what?",
+  "description": "Report the new injury to your supervisor immediately and see your doctor. This may qualify as an aggravation of your claim, and your doctor may need to further ",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-hurt-myself-again-doing-the-easy-job-they-gave-me-now-what-125",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just hurt myself again doing the easy job they gave me—now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the new injury to your supervisor immediately and see your doctor. This may qualify as an aggravation of your claim, and your doctor may need to further restrict your work duties or put you on total off-work status."
+      }
+    }
+  ]
+}

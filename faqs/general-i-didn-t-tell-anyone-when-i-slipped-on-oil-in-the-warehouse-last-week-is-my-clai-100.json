@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I didn't tell anyone when I slipped on oil in the warehouse last week. Is my claim dead now?",
+  "description": "No, but it's at risk. If your employer had actual knowledge of the incident or if you report it now, you may still be able to win the claim, though the insuranc",
+  "url": "https://justworkcomplaw.com//faq/general-i-didn-t-tell-anyone-when-i-slipped-on-oil-in-the-warehouse-last-week-is-my-clai-100",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I didn't tell anyone when I slipped on oil in the warehouse last week. Is my claim dead now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, but it's at risk. If your employer had actual knowledge of the incident or if you report it now, you may still be able to win the claim, though the insurance company will likely fight harder."
+      }
+    }
+  ]
+}

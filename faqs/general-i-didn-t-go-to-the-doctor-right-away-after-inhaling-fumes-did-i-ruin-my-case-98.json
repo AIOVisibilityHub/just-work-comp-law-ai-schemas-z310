@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I didn't go to the doctor right away after inhaling fumes. Did I ruin my case?",
+  "description": "Not necessarily, especially since many chemical symptoms are delayed. However, you must seek medical care as soon as symptoms appear and clearly explain the exp",
+  "url": "https://justworkcomplaw.com//faq/general-i-didn-t-go-to-the-doctor-right-away-after-inhaling-fumes-did-i-ruin-my-case-98",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I didn't go to the doctor right away after inhaling fumes. Did I ruin my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily, especially since many chemical symptoms are delayed. However, you must seek medical care as soon as symptoms appear and clearly explain the exposure timeline to your doctor to link it to your work."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for vertigo from chemical exposure at work?",
+  "description": "Yes, if ENT diagnosis + exposure timeline + no prior vestibular issues.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-vertigo-from-chemical-exposure-at-work-289",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for vertigo from chemical exposure at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if ENT diagnosis + exposure timeline + no prior vestibular issues."
+      }
+    }
+  ]
+}

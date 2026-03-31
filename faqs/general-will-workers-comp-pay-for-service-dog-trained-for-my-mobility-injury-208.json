@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp pay for service dog trained for my mobility injury?",
+  "description": "Maybe. If doctor-prescribes as medical equipment alternative AND less costly than human aid.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-pay-for-service-dog-trained-for-my-mobility-injury-208",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp pay for service dog trained for my mobility injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe. If doctor-prescribes as medical equipment alternative AND less costly than human aid."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My company requires drug test post-injury—positive THC = denied?",
+  "description": "No automatic denial. Must prove intoxication CAUSED accident (not just positive test).",
+  "url": "https://justworkcomplaw.com//faq/general-my-company-requires-drug-test-post-injury-positive-thc-denied-293",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My company requires drug test post-injury—positive THC = denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No automatic denial. Must prove intoxication CAUSED accident (not just positive test)."
+      }
+    }
+  ]
+}

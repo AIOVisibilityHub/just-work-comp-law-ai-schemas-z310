@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer because workers comp doesn't pay enough?",
+  "description": "Generally, no workers comp is your exclusive remedy. However, you can sue third parties like equipment manufacturers or other drivers who caused the injury, whi",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-because-workers-comp-doesn-t-pay-enough-33",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer because workers comp doesn't pay enough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, no workers comp is your exclusive remedy. However, you can sue third parties like equipment manufacturers or other drivers who caused the injury, which can provide compensation for pain and suffering that workers comp doesn't cover."
+      }
+    }
+  ]
+}

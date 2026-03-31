@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does workers comp cover lost tips/income for servers injured on job?",
+  "description": "Yes, AWW includes tips reported to employer. Covers full economic loss.",
+  "url": "https://justworkcomplaw.com//faq/general-does-workers-comp-cover-lost-tips-income-for-servers-injured-on-job-257",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does workers comp cover lost tips/income for servers injured on job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AWW includes tips reported to employer. Covers full economic loss."
+      }
+    }
+  ]
+}

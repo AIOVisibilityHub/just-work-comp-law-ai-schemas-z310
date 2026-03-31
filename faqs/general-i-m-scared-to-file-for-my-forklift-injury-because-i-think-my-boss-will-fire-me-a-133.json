@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm scared to file for my forklift injury because I think my boss will fire me. Are there protections for workers?",
+  "description": "It is illegal to fire an employee specifically for filing a workers comp claim. If you are injured and can't work, you are entitled to benefits, and retaliation",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-scared-to-file-for-my-forklift-injury-because-i-think-my-boss-will-fire-me-a-133",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm scared to file for my forklift injury because I think my boss will fire me. Are there protections for workers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is illegal to fire an employee specifically for filing a workers comp claim. If you are injured and can't work, you are entitled to benefits, and retaliation can lead to a wrongful termination lawsuit."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When can I safely settle my workers comp claim?",
+  "description": "Never settle before reaching Maximum Medical Improvement (MMI). Get your impairment rating first, as it determines your permanent disability settlement value.",
+  "url": "https://justworkcomplaw.com//faq/general-when-can-i-safely-settle-my-workers-comp-claim-144",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When can I safely settle my workers comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Never settle before reaching Maximum Medical Improvement (MMI). Get your impairment rating first, as it determines your permanent disability settlement value."
+      }
+    }
+  ]
+}

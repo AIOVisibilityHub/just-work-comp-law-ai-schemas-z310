@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to go to the doctor the insurance company picked for my neck?",
+  "description": "For an Independent Medical Exam (IME), yes, you must attend or your benefits may be stopped. However, for your actual treatment, you typically have a right to c",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-go-to-the-doctor-the-insurance-company-picked-for-my-neck-43",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to go to the doctor the insurance company picked for my neck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an Independent Medical Exam (IME), yes, you must attend or your benefits may be stopped. However, for your actual treatment, you typically have a right to choose or change your doctor once in Utah and Idaho."
+      }
+    }
+  ]
+}

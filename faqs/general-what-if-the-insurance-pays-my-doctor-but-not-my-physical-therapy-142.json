@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the insurance pays my doctor but not my physical therapy?",
+  "description": "Appeal immediately with documentation showing therapy was doctor-ordered and related to your injury. Most policies cover all reasonable treatment once the claim",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-the-insurance-pays-my-doctor-but-not-my-physical-therapy-142",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the insurance pays my doctor but not my physical therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal immediately with documentation showing therapy was doctor-ordered and related to your injury. Most policies cover all reasonable treatment once the claim is accepted."
+      }
+    }
+  ]
+}

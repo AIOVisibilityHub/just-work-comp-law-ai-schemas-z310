@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my elbow injury from repetitive barcode scanning?",
+  "description": "Medical diagnosis + scan frequency logs + ergonomic study + no prior elbow issues.",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-elbow-injury-from-repetitive-barcode-scanning-283",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my elbow injury from repetitive barcode scanning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical diagnosis + scan frequency logs + ergonomic study + no prior elbow issues."
+      }
+    }
+  ]
+}

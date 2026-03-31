@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens to my health insurance when workers comp kicks in?",
+  "description": "Workers comp becomes primary payer. Health insurance secondary. They coordinate—no double coverage, no gaps.",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-to-my-health-insurance-when-workers-comp-kicks-in-175",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens to my health insurance when workers comp kicks in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers comp becomes primary payer. Health insurance secondary. They coordinate—no double coverage, no gaps."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My injury happened on overtime—does that increase my wage calculation?",
+  "description": "Yes! Average weekly wage includes overtime, bonuses, shift differentials from year prior to injury.",
+  "url": "https://justworkcomplaw.com//faq/general-my-injury-happened-on-overtime-does-that-increase-my-wage-calculation-180",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My injury happened on overtime—does that increase my wage calculation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Average weekly wage includes overtime, bonuses, shift differentials from year prior to injury."
+      }
+    }
+  ]
+}

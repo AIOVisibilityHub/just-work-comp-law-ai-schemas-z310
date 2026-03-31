@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does workers comp cover prescription medications for my work injury?",
+  "description": "Yes, 100% coverage for doctor-prescribed meds related to your injury. Includes pain meds, muscle relaxers, anti-inflammatories.",
+  "url": "https://justworkcomplaw.com//faq/general-does-workers-comp-cover-prescription-medications-for-my-work-injury-162",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does workers comp cover prescription medications for my work injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 100% coverage for doctor-prescribed meds related to your injury. Includes pain meds, muscle relaxers, anti-inflammatories."
+      }
+    }
+  ]
+}

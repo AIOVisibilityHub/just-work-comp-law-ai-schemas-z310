@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my back lifting a heavy box at work—what do I do first without getting fired?",
+  "description": "Immediately report the injury to your supervisor in writing to create a paper trail, then seek medical attention. Reporting a workplace injury is a protected le",
+  "url": "https://justworkcomplaw.com//faq/workplace-injury-i-hurt-my-back-lifting-a-heavy-box-at-work-what-do-i-do-first-without-getting-fi-116",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my back lifting a heavy box at work—what do I do first without getting fired?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately report the injury to your supervisor in writing to create a paper trail, then seek medical attention. Reporting a workplace injury is a protected legal activity, and documented evidence of the incident and your medical diagnosis makes it much harder for an employer to legally justify termination."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does workers comp pay if injured during voluntary overtime?",
+  "description": "Yes, 100% covered. Overtime hours included in AWW calculation for benefits.",
+  "url": "https://justworkcomplaw.com//faq/general-does-workers-comp-pay-if-injured-during-voluntary-overtime-298",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does workers comp pay if injured during voluntary overtime?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 100% covered. Overtime hours included in AWW calculation for benefits."
+      }
+    }
+  ]
+}

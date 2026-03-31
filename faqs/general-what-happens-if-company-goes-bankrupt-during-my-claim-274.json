@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if company goes bankrupt during my claim?",
+  "description": "State guaranty fund covers accepted claims. Unpaid medical = direct claim against debtor.",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-company-goes-bankrupt-during-my-claim-274",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if company goes bankrupt during my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "State guaranty fund covers accepted claims. Unpaid medical = direct claim against debtor."
+      }
+    }
+  ]
+}

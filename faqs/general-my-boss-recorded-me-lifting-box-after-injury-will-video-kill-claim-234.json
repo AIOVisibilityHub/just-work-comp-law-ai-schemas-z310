@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss recorded me lifting box after injury—will video kill claim?",
+  "description": "Context matters. Show it was light duty test within restrictions vs. contradicting doctor limits.",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-recorded-me-lifting-box-after-injury-will-video-kill-claim-234",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss recorded me lifting box after injury—will video kill claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Context matters. Show it was light duty test within restrictions vs. contradicting doctor limits."
+      }
+    }
+  ]
+}

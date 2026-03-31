@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My workers comp lawyer wants 20% of settlement—is that normal?",
+  "description": "Yes, standard contingency fee. No upfront cost. They only get paid if you win. Negotiate if settlement is large.",
+  "url": "https://justworkcomplaw.com//faq/general-my-workers-comp-lawyer-wants-20-of-settlement-is-that-normal-165",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My workers comp lawyer wants 20% of settlement—is that normal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, standard contingency fee. No upfront cost. They only get paid if you win. Negotiate if settlement is large."
+      }
+    }
+  ]
+}

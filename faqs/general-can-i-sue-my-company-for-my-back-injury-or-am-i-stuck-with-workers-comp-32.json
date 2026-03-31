@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my company for my back injury or am I stuck with workers comp?",
+  "description": "Generally, you cannot sue your employer because of the exclusive remedy rule. However, you may be able to sue a third party like a contractor or equipment manuf",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-company-for-my-back-injury-or-am-i-stuck-with-workers-comp-32",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my company for my back injury or am I stuck with workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, you cannot sue your employer because of the exclusive remedy rule. However, you may be able to sue a third party like a contractor or equipment manufacturer if their negligence caused your injury."
+      }
+    }
+  ]
+}

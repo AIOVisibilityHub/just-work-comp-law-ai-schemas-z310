@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my injury is real if the insurance company says there's no medical evidence?",
+  "description": "You prove it through consistent documentation, diagnostic tests like MRIs, and a strong causation statement from your doctor. If the insurer ignores this, an at",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-injury-is-real-if-the-insurance-company-says-there-s-no-medica-69",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my injury is real if the insurance company says there's no medical evidence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You prove it through consistent documentation, diagnostic tests like MRIs, and a strong causation statement from your doctor. If the insurer ignores this, an attorney can help you secure an Independent Medical Examination (IME)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss for negligence if they knew the shelf was loose?",
+  "description": "Usually no, as workers comp is the exclusive remedy for workplace accidents. However, you may be able to sue if the injury was intentional or if a third party l",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-for-negligence-if-they-knew-the-shelf-was-loose-28",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss for negligence if they knew the shelf was loose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually no, as workers comp is the exclusive remedy for workplace accidents. However, you may be able to sue if the injury was intentional or if a third party like a shelf manufacturer was responsible for the hazard."
+      }
+    }
+  ]
+}

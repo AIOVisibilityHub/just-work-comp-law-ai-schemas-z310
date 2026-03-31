@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I refuse company doctor's return-to-work release?",
+  "description": "Follow YOUR doctor's restrictions. Get both documented. Dispute goes to hearing.",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-i-refuse-company-doctor-s-return-to-work-release-254",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I refuse company doctor's return-to-work release?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow YOUR doctor's restrictions. Get both documented. Dispute goes to hearing."
+      }
+    }
+  ]
+}

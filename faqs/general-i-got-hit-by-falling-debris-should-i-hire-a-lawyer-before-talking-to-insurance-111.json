@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got hit by falling debris—should I hire a lawyer before talking to insurance?",
+  "description": "Yes. Falling object cases often involve high-value third-party claims. A lawyer preserves evidence of safety violations and prevents you from settling for less ",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-hit-by-falling-debris-should-i-hire-a-lawyer-before-talking-to-insurance-111",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got hit by falling debris—should I hire a lawyer before talking to insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Falling object cases often involve high-value third-party claims. A lawyer preserves evidence of safety violations and prevents you from settling for less than your case is worth."
+      }
+    }
+  ]
+}

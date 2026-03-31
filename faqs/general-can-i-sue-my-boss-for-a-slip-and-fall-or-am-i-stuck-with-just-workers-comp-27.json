@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss for a slip and fall, or am I stuck with just workers comp?",
+  "description": "In most cases, you cannot sue your employer directly due to exclusive remedy laws. However, if a third party—like a separate cleaning crew or contractor—caused ",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-for-a-slip-and-fall-or-am-i-stuck-with-just-workers-comp-27",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss for a slip and fall, or am I stuck with just workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most cases, you cannot sue your employer directly due to exclusive remedy laws. However, if a third party—like a separate cleaning crew or contractor—caused the hazard, you may be able to file a personal injury lawsuit against them in addition to your workers comp claim."
+      }
+    }
+  ]
+}

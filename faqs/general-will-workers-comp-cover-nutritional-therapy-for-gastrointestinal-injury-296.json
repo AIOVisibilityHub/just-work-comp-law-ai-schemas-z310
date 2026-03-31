@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp cover nutritional therapy for gastrointestinal injury?",
+  "description": "Yes, if doctor-prescribes specific diet/supplements as medical treatment.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-cover-nutritional-therapy-for-gastrointestinal-injury-296",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp cover nutritional therapy for gastrointestinal injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if doctor-prescribes specific diet/supplements as medical treatment."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does quitting my job affect my ongoing workers comp benefits?",
+  "description": "No. Benefits based on injury severity, not employment status. Quitting doesn't stop medical/wage loss.",
+  "url": "https://justworkcomplaw.com//faq/general-does-quitting-my-job-affect-my-ongoing-workers-comp-benefits-186",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does quitting my job affect my ongoing workers comp benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Benefits based on injury severity, not employment status. Quitting doesn't stop medical/wage loss."
+      }
+    }
+  ]
+}

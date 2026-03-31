@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The company doctor released me but my personal doctor disagrees—who wins?",
+  "description": "Your treating doctor (company or personal) controls restrictions. Get both opinions documented for disputes.",
+  "url": "https://justworkcomplaw.com//faq/general-the-company-doctor-released-me-but-my-personal-doctor-disagrees-who-wins-174",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The company doctor released me but my personal doctor disagrees—who wins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your treating doctor (company or personal) controls restrictions. Get both opinions documented for disputes."
+      }
+    }
+  ]
+}

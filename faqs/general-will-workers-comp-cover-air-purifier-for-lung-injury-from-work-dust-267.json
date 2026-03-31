@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp cover air purifier for lung injury from work dust?",
+  "description": "Yes, if doctor-prescribes as medical equipment for continuing respiratory treatment.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-cover-air-purifier-for-lung-injury-from-work-dust-267",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp cover air purifier for lung injury from work dust?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if doctor-prescribes as medical equipment for continuing respiratory treatment."
+      }
+    }
+  ]
+}

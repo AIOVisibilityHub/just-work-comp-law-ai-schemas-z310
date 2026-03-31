@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm on TTD but want to try part-time work—allowed?",
+  "description": "Yes. Report earnings. Get TPD benefits for wage difference if within doctor restrictions.",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-on-ttd-but-want-to-try-part-time-work-allowed-244",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm on TTD but want to try part-time work—allowed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Report earnings. Get TPD benefits for wage difference if within doctor restrictions."
+      }
+    }
+  ]
+}

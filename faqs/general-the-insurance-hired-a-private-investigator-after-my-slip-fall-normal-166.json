@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The insurance hired a private investigator after my slip & fall—normal?",
+  "description": "Yes, very common. They film activities to contradict your claimed limitations. Follow doctor restrictions exactly.",
+  "url": "https://justworkcomplaw.com//faq/general-the-insurance-hired-a-private-investigator-after-my-slip-fall-normal-166",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The insurance hired a private investigator after my slip & fall—normal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, very common. They film activities to contradict your claimed limitations. Follow doctor restrictions exactly."
+      }
+    }
+  ]
+}

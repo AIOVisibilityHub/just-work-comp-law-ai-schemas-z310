@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to keep seeing doctors after settlement?",
+  "description": "Depends on settlement terms. \"Open medical\" = lifetime care for injury. \"Closed\" = no future medical coverage.",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-keep-seeing-doctors-after-settlement-171",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to keep seeing doctors after settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depends on settlement terms. \"Open medical\" = lifetime care for injury. \"Closed\" = no future medical coverage."
+      }
+    }
+  ]
+}

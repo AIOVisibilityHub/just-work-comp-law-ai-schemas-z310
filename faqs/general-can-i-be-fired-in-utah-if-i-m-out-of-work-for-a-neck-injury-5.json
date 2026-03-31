@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I be fired in Utah if I'm out of work for a neck injury?",
+  "description": "You cannot be fired in retaliation for filing a claim. However, Utah is an at-will state, meaning an employer can fire you for other reasons. Your workers comp ",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-be-fired-in-utah-if-i-m-out-of-work-for-a-neck-injury-5",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I be fired in Utah if I'm out of work for a neck injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You cannot be fired in retaliation for filing a claim. However, Utah is an at-will state, meaning an employer can fire you for other reasons. Your workers comp benefits should continue even if you are terminated."
+      }
+    }
+  ]
+}

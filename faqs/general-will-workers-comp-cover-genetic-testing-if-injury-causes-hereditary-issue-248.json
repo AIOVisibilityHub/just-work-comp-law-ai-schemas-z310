@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp cover genetic testing if injury causes hereditary issue?",
+  "description": "No. Only direct injury treatment. Genetic conditions = not compensable work injuries.",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-cover-genetic-testing-if-injury-causes-hereditary-issue-248",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp cover genetic testing if injury causes hereditary issue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Only direct injury treatment. Genetic conditions = not compensable work injuries."
+      }
+    }
+  ]
+}

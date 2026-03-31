@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just inhaled toxic fumes at work and I'm dizzy—what do I do right now?",
+  "description": "Move to fresh air, seek emergency medical care immediately, and report the exposure to your supervisor. Request the Safety Data Sheets (SDS) for the chemical an",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-inhaled-toxic-fumes-at-work-and-i-m-dizzy-what-do-i-do-right-now-126",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just inhaled toxic fumes at work and I'm dizzy—what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Move to fresh air, seek emergency medical care immediately, and report the exposure to your supervisor. Request the Safety Data Sheets (SDS) for the chemical and document all symptoms as they appear."
+      }
+    }
+  ]
+}

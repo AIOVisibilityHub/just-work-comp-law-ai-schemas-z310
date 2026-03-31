@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a doctor's note linking my burns to the chemicals at work?",
+  "description": "Yes, a detailed medical report is essential. A doctor must state that your condition was caused by specific workplace chemicals to overcome insurance company cl",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-doctor-s-note-linking-my-burns-to-the-chemicals-at-work-48",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a doctor's note linking my burns to the chemicals at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a detailed medical report is essential. A doctor must state that your condition was caused by specific workplace chemicals to overcome insurance company claims that your illness is unrelated to your job."
+      }
+    }
+  ]
+}

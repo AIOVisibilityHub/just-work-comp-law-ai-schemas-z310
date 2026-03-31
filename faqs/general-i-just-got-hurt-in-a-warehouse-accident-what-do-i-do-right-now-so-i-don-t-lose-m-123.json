@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just got hurt in a warehouse accident—what do I do right now so I don't lose my rights?",
+  "description": "Seek medical care immediately and report the injury to your supervisor in writing. Document the scene with photos and secure witness contact info to prevent the",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-got-hurt-in-a-warehouse-accident-what-do-i-do-right-now-so-i-don-t-lose-m-123",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just got hurt in a warehouse accident—what do I do right now so I don't lose my rights?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek medical care immediately and report the injury to your supervisor in writing. Document the scene with photos and secure witness contact info to prevent the insurance company from claiming the accident didn't happen at work."
+      }
+    }
+  ]
+}

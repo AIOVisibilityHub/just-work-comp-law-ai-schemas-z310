@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get extra money for pain and suffering if the equipment was old and broken?",
+  "description": "Workers comp doesn't pay for pain and suffering, but a third-party lawsuit against the equipment manufacturer or a negligent maintenance company can provide the",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-extra-money-for-pain-and-suffering-if-the-equipment-was-old-and-broken-8",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get extra money for pain and suffering if the equipment was old and broken?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers comp doesn't pay for pain and suffering, but a third-party lawsuit against the equipment manufacturer or a negligent maintenance company can provide these additional damages."
+      }
+    }
+  ]
+}

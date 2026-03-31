@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my employer doesn't have workers comp insurance?",
+  "description": "You're still entitled to benefits. Utah and Idaho require employers to carry coverage or be self-insured. If uninsured, the state Uninsured Employer Fund covers",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-employer-doesn-t-have-workers-comp-insurance-141",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my employer doesn't have workers comp insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You're still entitled to benefits. Utah and Idaho require employers to carry coverage or be self-insured. If uninsured, the state Uninsured Employer Fund covers your medical and wage loss."
+      }
+    }
+  ]
+}

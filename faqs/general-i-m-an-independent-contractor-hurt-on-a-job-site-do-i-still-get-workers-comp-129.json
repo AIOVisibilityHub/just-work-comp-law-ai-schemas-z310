@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm an independent contractor hurt on a job site—do I still get workers comp?",
+  "description": "You might. If the company controls your work details and hours, Utah law may classify you as an employee eligible for benefits despite your 1099 tax status.",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-an-independent-contractor-hurt-on-a-job-site-do-i-still-get-workers-comp-129",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm an independent contractor hurt on a job site—do I still get workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You might. If the company controls your work details and hours, Utah law may classify you as an employee eligible for benefits despite your 1099 tax status."
+      }
+    }
+  ]
+}

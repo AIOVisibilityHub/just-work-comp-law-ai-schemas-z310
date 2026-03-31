@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does the law force me to see the company doctor after I tripped and hurt my knee?",
+  "description": "In Utah and Idaho, employers generally have the right to choose the treating physician. You should consult a lawyer before switching doctors on your own to avoi",
+  "url": "https://justworkcomplaw.com//faq/general-does-the-law-force-me-to-see-the-company-doctor-after-i-tripped-and-hurt-my-knee-52",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does the law force me to see the company doctor after I tripped and hurt my knee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Utah and Idaho, employers generally have the right to choose the treating physician. You should consult a lawyer before switching doctors on your own to avoid losing coverage for medical bills."
+      }
+    }
+  ]
+}

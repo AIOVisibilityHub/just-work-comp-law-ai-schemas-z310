@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can part-time workers get same benefits percentage as full-time?",
+  "description": "Yes. AWW based on actual hours/earnings. Part-timers get identical 66% replacement rate.",
+  "url": "https://justworkcomplaw.com//faq/general-can-part-time-workers-get-same-benefits-percentage-as-full-time-238",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can part-time workers get same benefits percentage as full-time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. AWW based on actual hours/earnings. Part-timers get identical 66% replacement rate."
+      }
+    }
+  ]
+}
